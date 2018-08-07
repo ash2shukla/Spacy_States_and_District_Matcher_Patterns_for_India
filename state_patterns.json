@@ -1,0 +1,703 @@
+{
+    "ANDAMAN & NICOBAR ISLANDS": [
+        [
+            {
+                "LOWER": "andaman"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nicobar"
+            },
+            {
+                "LOWER": "islands",
+                "OP": "?"
+            }
+        ],
+        [
+            {
+                "ORTH": "AN"
+            }
+        ]
+    ],
+    "ANDHRA PRADESH": [
+        [
+            {
+                "LOWER": "andhra"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "ORTH": "AP"
+            }
+        ]
+    ],
+    "ARUNACHAL PRADESH": [
+        [
+            {
+                "LOWER": "arunachal"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "ORTH": "AR"
+            }
+        ]
+    ],
+    "ASSAM": [
+        [
+            {
+                "LOWER": "assam"
+            }
+        ],
+        [
+            {
+                "LOWER": "asam"
+            }
+        ],
+        [
+            {
+                "ORTH": "AS"
+            }
+        ]
+    ],
+    "BIHAR": [
+        [
+            {
+                "LOWER": "bihar"
+            }
+        ],
+        [
+            {
+                "ORTH": "BR"
+            }
+        ]
+    ],
+    "CHANDIGARH": [
+        [
+            {
+                "LOWER": "chandigarh"
+            }
+        ],
+        [
+            {
+                "ORTH": "CH"
+            }
+        ]
+    ],
+    "CHHATTISGARH": [
+        [
+            {
+                "LOWER": "chhattisgarh"
+            }
+        ],
+        [
+            {
+                "LOWER": "chatisgarh"
+            }
+        ],
+        [
+            {
+                "ORTH": "CT"
+            }
+        ]
+    ],
+    "DADRA AND NAGAR HAVELI": [
+        [
+            {
+                "LOWER": "dadra"
+            },
+            {
+                "LOWER": "and",
+                "ORTH": "&",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nagar"
+            },
+            {
+                "LOWER": "haveli"
+            }
+        ],
+        [
+            {
+                "LOWER": "dadra"
+            },
+            {
+                "LOWER": "and",
+                "ORTH": "&",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nagar"
+            },
+            {
+                "LOWER": "haveli",
+                "OP": "?"
+            }
+        ],
+        [
+            {
+                "LOWER": "dadra",
+                "OP": "?"
+            },
+            {
+                "LOWER": "and",
+                "ORTH": "&",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nagar"
+            },
+            {
+                "LOWER": "haveli"
+            }
+        ],
+        [
+            {
+                "ORTH": "DN"
+            }
+        ]
+    ],
+    "DAMAN & DIU": [
+        [
+            {
+                "LOWER": "daman"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "diu"
+            }
+        ],
+        [
+            {
+                "LOWER": "daman",
+                "OP": "?"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "diu"
+            }
+        ],
+        [
+            {
+                "LOWER": "daman"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "diu",
+                "OP": "?"
+            }
+        ],
+        [
+            {
+                "ORTH": "DD"
+            }
+        ]
+    ],
+    "DELHI": [
+        [
+            {
+                "LOWER": "delhi"
+            }
+        ],
+        [
+            {
+                "LOWER": "dilli"
+            }
+        ],
+        [
+            {
+                "ORTH": "DL"
+            }
+        ]
+    ],
+    "GOA": [
+        [
+            {
+                "LOWER": "goa"
+            }
+        ],
+        [
+            {
+                "ORTH": "GA"
+            }
+        ]
+    ],
+    "GUJRAT": [
+        [
+            {
+                "LOWER": "gujrat"
+            }
+        ],
+        [
+            {
+                "LOWER": "gujarat"
+            }
+        ],
+        [
+            {
+                "ORTH": "GJ"
+            }
+        ]
+    ],
+    "HARAYANA": [
+        [
+            {
+                "LOWER": "harayana"
+            }
+        ],
+        [
+            {
+                "LOWER": "hariyana"
+            }
+        ],
+        [
+            {
+                "ORTH": "HR"
+            }
+        ]
+    ],
+    "HIMACHAL PRADESH": [
+        [
+            {
+                "LOWER": "himachal"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "LOWER": "himanchal"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "ORTH": "HP"
+            }
+        ]
+    ],
+    "JAMMU AND KASHMIR": [
+        [
+            {
+                "LOWER": "jammu"
+            },
+            {
+                "LOWER": "and",
+                "ORTH": "&",
+                "OP": "?"
+            },
+            {
+                "LOWER": "kashmir"
+            }
+        ],
+        [
+            {
+                "ORTH": "JK"
+            }
+        ],
+        [
+            {
+                "ORTH": "J&K"
+            }
+        ],
+        [
+            {
+                "ORTH": "J"
+            },
+            {
+                "ORTH": "and"
+            },
+            {
+                "ORTH": "K"
+            }
+        ]
+    ],
+    "JHARKHAND": [
+        [
+            {
+                "LOWER": "jharkhand"
+            }
+        ],
+        [
+            {
+                "ORTH": "JH"
+            }
+        ]
+    ],
+    "KARNATAKA": [
+        [
+            {
+                "LOWER": "karnataka"
+            }
+        ],
+        [
+            {
+                "ORTH": "KA"
+            }
+        ]
+    ],
+    "KERALA": [
+        [
+            {
+                "LOWER": "kerala"
+            }
+        ],
+        [
+            {
+                "LOWER": "keral"
+            }
+        ],
+        [
+            {
+                "ORTH": "KL"
+            }
+        ]
+    ],
+    "LAKSHADWEEP": [
+        [
+            {
+                "LOWER": "lakshadweep"
+            }
+        ],
+        [
+            {
+                "LOWER": "lakshadeep"
+            }
+        ],
+        [
+            {
+                "LOWER": "lakshadip"
+            }
+        ],
+        [
+            {
+                "LOWER": "lakshyadweep"
+            }
+        ],
+        [
+            {
+                "LOWER": "lakshyadip"
+            }
+        ],
+        [
+            {
+                "LOWER": "lakshyadeep"
+            }
+        ],
+        [
+            {
+                "ORTH": "LD"
+            }
+        ]
+    ],
+    "MADHYA PRADESH": [
+        [
+            {
+                "LOWER": "madhya"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "LOWER": "madhy"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "ORTH": "MP"
+            }
+        ]
+    ],
+    "MAHARASHTRA": [
+        [
+            {
+                "LOWER": "maharashtra"
+            }
+        ],
+        [
+            {
+                "ORTH": "MH"
+            }
+        ]
+    ],
+    "MANIPUR": [
+        [
+            {
+                "LOWER": "manipur"
+            }
+        ],
+        [
+            {
+                "ORTH": "MN"
+            }
+        ]
+    ],
+    "MEGHALAYA": [
+        [
+            {
+                "LOWER": "meghalaya"
+            }
+        ],
+        [
+            {
+                "LOWER": "meghalay"
+            }
+        ],
+        [
+            {
+                "LOWER": "meghaalay"
+            }
+        ],
+        [
+            {
+                "LOWER": "meghalay"
+            }
+        ],
+        [
+            {
+                "ORTH": "ML"
+            }
+        ]
+    ],
+    "MIZORAM": [
+        [
+            {
+                "LOWER": "mizoram"
+            }
+        ],
+        [
+            {
+                "LOWER": "mizorum"
+            }
+        ],
+        [
+            {
+                "ORTH": "MZ"
+            }
+        ]
+    ],
+    "NAGALAND": [
+        [
+            {
+                "LOWER": "nagaland"
+            }
+        ],
+        [
+            {
+                "ORTH": "NL"
+            }
+        ]
+    ],
+    "ODISHA": [
+        [
+            {
+                "LOWER": "odisha"
+            }
+        ],
+        [
+            {
+                "LOWER": "urisa"
+            }
+        ],
+        [
+            {
+                "LOWER": "udeesa"
+            }
+        ],
+        [
+            {
+                "LOWER": "odisa"
+            }
+        ],
+        [
+            {
+                "ORTH": "OR"
+            }
+        ]
+    ],
+    "PUDUCHERRY": [
+        [
+            {
+                "LOWER": "puducherry"
+            }
+        ],
+        [
+            {
+                "LOWER": "pondicherry"
+            }
+        ],
+        [
+            {
+                "LOWER": "pondicheri"
+            }
+        ],
+        [
+            {
+                "LOWER": "puduchery"
+            }
+        ],
+        [
+            {
+                "ORTH": "PY"
+            }
+        ]
+    ],
+    "PUNJAB": [
+        [
+            {
+                "LOWER": "punjab"
+            }
+        ],
+        [
+            {
+                "ORTH": "PB"
+            }
+        ]
+    ],
+    "RAJASTHAN": [
+        [
+            {
+                "LOWER": "rajasthan"
+            }
+        ],
+        [
+            {
+                "LOWER": "rajsthan"
+            }
+        ],
+        [
+            {
+                "ORTH": "RJ"
+            }
+        ]
+    ],
+    "SIKKIM": [
+        [
+            {
+                "LOWER": "sikkim"
+            }
+        ],
+        [
+            {
+                "LOWER": "sikim"
+            }
+        ],
+        [
+            {
+                "ORTH": "SK"
+            }
+        ]
+    ],
+    "TAMIL NADU": [
+        [
+            {
+                "LOWER": "tamil"
+            },
+            {
+                "LOWER": "nadu"
+            }
+        ],
+        [
+            {
+                "ORTH": "TN"
+            }
+        ]
+    ],
+    "TELANGANA": [
+        [
+            {
+                "LOWER": "telangana"
+            }
+        ],
+        [
+            {
+                "ORTH": "TG"
+            }
+        ]
+    ],
+    "TRIPURA": [
+        [
+            {
+                "LOWER": "tripura"
+            }
+        ],
+        [
+            {
+                "ORTH": "TR"
+            }
+        ]
+    ],
+    "UTTAR PRADESH": [
+        [
+            {
+                "LOWER": "uttar"
+            },
+            {
+                "LOWER": "pradesh"
+            }
+        ],
+        [
+            {
+                "ORTH": "UP"
+            }
+        ]
+    ],
+    "UTTARAKHAND": [
+        [
+            {
+                "LOWER": "uttarakhand"
+            }
+        ],
+        [
+            {
+                "ORTH": "UT"
+            }
+        ]
+    ],
+    "WEST BENGAL": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "bengal"
+            }
+        ],
+        [
+            {
+                "ORTH": "WB"
+            }
+        ]
+    ]
+}

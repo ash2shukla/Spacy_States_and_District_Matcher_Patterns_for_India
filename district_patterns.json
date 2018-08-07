@@ -1,0 +1,5628 @@
+{
+    "NICOBARS_AN": [
+        [
+            {
+                "LOWER": "nicobars"
+            }
+        ],
+        [
+            {
+                "LOWER": "nicobar"
+            }
+        ]
+    ],
+    "NORTH & MIDDLE ANDAMAN_AN": [
+        [
+            {
+                "LOWER": "north",
+                "OP": "?"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "middle"
+            },
+            {
+                "LOWER": "andaman"
+            }
+        ],
+        [
+            {
+                "LOWER": "north",
+                "OP": "?"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "middle"
+            },
+            {
+                "LOWER": "andman"
+            }
+        ],
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "middle",
+                "OP": "?"
+            },
+            {
+                "LOWER": "andman"
+            }
+        ],
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "middle",
+                "OP": "?"
+            },
+            {
+                "LOWER": "andaman"
+            }
+        ]
+    ],
+    "SOUTH ANDAMAN_AN": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "andaman"
+            }
+        ],
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "andman"
+            }
+        ]
+    ],
+    "ANANTAPUR_AP": [
+        [
+            {
+                "LOWER": "anantapur"
+            }
+        ],
+        [
+            {
+                "LOWER": "anantpur"
+            }
+        ]
+    ],
+    "CHITTOOR_AP": [
+        [
+            {
+                "LOWER": "chittoor"
+            }
+        ],
+        [
+            {
+                "LOWER": "chitur"
+            }
+        ]
+    ],
+    "EAST GODAVARI_AP": [
+        [
+            {
+                "LOWER": "east",
+                "OP": "?"
+            },
+            {
+                "LOWER": "godavari"
+            }
+        ],
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "godavri"
+            }
+        ]
+    ],
+    "GUNTUR_AP": [
+        [
+            {
+                "LOWER": "guntur"
+            }
+        ],
+        [
+            {
+                "LOWER": "guntoor"
+            }
+        ]
+    ],
+    "KADAPA_AP": [
+        [
+            {
+                "LOWER": "kadapa"
+            }
+        ]
+    ],
+    "KRISHNA_AP": [
+        [
+            {
+                "LOWER": "krishna"
+            }
+        ]
+    ],
+    "KURNOOL_AP": [
+        [
+            {
+                "LOWER": "kurnool"
+            }
+        ],
+        [
+            {
+                "LOWER": "kurnul"
+            }
+        ]
+    ],
+    "PRAKASAM_AP": [
+        [
+            {
+                "LOWER": "prakasam"
+            }
+        ],
+        [
+            {
+                "LOWER": "prakasham"
+            }
+        ],
+        [
+            {
+                "LOWER": "prakaasam"
+            }
+        ],
+        [
+            {
+                "LOWER": "prakaasham"
+            }
+        ]
+    ],
+    "SRI POTTI SRIRAMULU NELLORE_AP": [
+        [
+            {
+                "LOWER": "sri",
+                "OP": "?"
+            },
+            {
+                "LOWER": "shri",
+                "OP": "?"
+            },
+            {
+                "LOWER": "potti",
+                "OP": "?"
+            },
+            {
+                "LOWER": "pati",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramulu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "shriramulu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramalu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramuloo",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nellore"
+            }
+        ],
+        [
+            {
+                "LOWER": "sri",
+                "OP": "?"
+            },
+            {
+                "LOWER": "shri",
+                "OP": "?"
+            },
+            {
+                "LOWER": "potti",
+                "OP": "?"
+            },
+            {
+                "LOWER": "pati",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramulu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "shriramulu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramalu",
+                "OP": "?"
+            },
+            {
+                "LOWER": "sriramuloo",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nelore"
+            }
+        ]
+    ],
+    "SRIKAKULAM_AP": [
+        [
+            {
+                "LOWER": "srikakulam"
+            }
+        ],
+        [
+            {
+                "LOWER": "shrikakulam"
+            }
+        ]
+    ],
+    "VISAKHAPATNAM_AP": [
+        [
+            {
+                "LOWER": "visakhapatnam"
+            }
+        ],
+        [
+            {
+                "LOWER": "vishakhapatnam"
+            }
+        ],
+        [
+            {
+                "LOWER": "visakhapattanam"
+            }
+        ],
+        [
+            {
+                "LOWER": "vishakhapattanam"
+            }
+        ]
+    ],
+    "VIZIANAGARAM_AP": [
+        [
+            {
+                "LOWER": "vizianagaram"
+            }
+        ],
+        [
+            {
+                "LOWER": "vizanagaram"
+            }
+        ],
+        [
+            {
+                "LOWER": "vijanagaram"
+            }
+        ],
+        [
+            {
+                "LOWER": "vijianagaram"
+            }
+        ]
+    ],
+    "WEST GODAVARI_AP": [
+        [
+            {
+                "LOWER": "west",
+                "OP": "?"
+            },
+            {
+                "LOWER": "godavari"
+            }
+        ],
+        [
+            {
+                "LOWER": "west",
+                "OP": "?"
+            },
+            {
+                "LOWER": "godavri"
+            }
+        ]
+    ],
+    "ANJAW_AR": [
+        [
+            {
+                "LOWER": "anjaw"
+            }
+        ],
+        [
+            {
+                "LOWER": "anja"
+            }
+        ]
+    ],
+    "CHANGLANG_AR": [
+        [
+            {
+                "LOWER": "changlang"
+            }
+        ],
+        [
+            {
+                "LOWER": "chaglag"
+            }
+        ]
+    ],
+    "DIBANG VALLEY_AR": [
+        [
+            {
+                "LOWER": "dibang"
+            },
+            {
+                "LOWER": "valley",
+                "OP": "?"
+            }
+        ],
+        [
+            {
+                "LOWER": "divang"
+            },
+            {
+                "LOWER": "valley",
+                "OP": "?"
+            }
+        ]
+    ],
+    "EAST KAMENG_AR": [
+        [
+            {
+                "LOWER": "east",
+                "OP": "?"
+            },
+            {
+                "LOWER": "kameng"
+            }
+        ],
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "kameg"
+            }
+        ]
+    ],
+    "EAST SIANG_AR": [
+        [
+            {
+                "LOWER": "east",
+                "OP": "?"
+            },
+            {
+                "LOWER": "siang"
+            }
+        ]
+    ],
+    "KURUNG KUMEY_AR": [
+        [
+            {
+                "LOWER": "kurung"
+            },
+            {
+                "LOWER": "kumey"
+            }
+        ]
+    ],
+    "LOHIT_AR": [
+        [
+            {
+                "LOWER": "lohit"
+            }
+        ]
+    ],
+    "LONGDING_AR": [
+        [
+            {
+                "LOWER": "longding"
+            }
+        ]
+    ],
+    "LOWER DIBANG VALLEY_AR": [
+        [
+            {
+                "LOWER": "lower"
+            },
+            {
+                "LOWER": "dibang"
+            },
+            {
+                "LOWER": "valley"
+            }
+        ]
+    ],
+    "LOWER SUBANSIRI_AR": [
+        [
+            {
+                "LOWER": "lower"
+            },
+            {
+                "LOWER": "subansiri"
+            }
+        ]
+    ],
+    "PAPUM PARE_AR": [
+        [
+            {
+                "LOWER": "papum"
+            },
+            {
+                "LOWER": "pare"
+            }
+        ]
+    ],
+    "TAWANG_AR": [
+        [
+            {
+                "LOWER": "tawang"
+            }
+        ]
+    ],
+    "TIRAP_AR": [
+        [
+            {
+                "LOWER": "tirap"
+            }
+        ]
+    ],
+    "UPPER SIANG_AR": [
+        [
+            {
+                "LOWER": "upper"
+            },
+            {
+                "LOWER": "siang"
+            }
+        ]
+    ],
+    "UPPER SUBANSIRI_AR": [
+        [
+            {
+                "LOWER": "upper"
+            },
+            {
+                "LOWER": "subansiri"
+            }
+        ]
+    ],
+    "WEST KAMENG_AR": [
+        [
+            {
+                "LOWER": "west",
+                "OP": "?"
+            },
+            {
+                "LOWER": "kameng"
+            }
+        ],
+        [
+            {
+                "LOWER": "west",
+                "OP": "?"
+            },
+            {
+                "LOWER": "kameg"
+            }
+        ]
+    ],
+    "WEST SIANG_AR": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "siang"
+            }
+        ]
+    ],
+    "BAKSA_AS": [
+        [
+            {
+                "LOWER": "baksa"
+            }
+        ]
+    ],
+    "BARPETA_AS": [
+        [
+            {
+                "LOWER": "barpeta"
+            }
+        ]
+    ],
+    "BONGAIGAON_AS": [
+        [
+            {
+                "LOWER": "bongaigaon"
+            }
+        ]
+    ],
+    "CACHAR_AS": [
+        [
+            {
+                "LOWER": "cachar"
+            }
+        ]
+    ],
+    "CHIRANG_AS": [
+        [
+            {
+                "LOWER": "chirang"
+            }
+        ]
+    ],
+    "DARRANG_AS": [
+        [
+            {
+                "LOWER": "darrang"
+            }
+        ]
+    ],
+    "DHEMAJI_AS": [
+        [
+            {
+                "LOWER": "dhemaji"
+            }
+        ]
+    ],
+    "DHUBRI_AS": [
+        [
+            {
+                "LOWER": "dhubri"
+            }
+        ]
+    ],
+    "DIBRUGARH_AS": [
+        [
+            {
+                "LOWER": "dibrugarh"
+            }
+        ]
+    ],
+    "DIMA HASAO_AS": [
+        [
+            {
+                "LOWER": "dima"
+            },
+            {
+                "LOWER": "hasao"
+            }
+        ]
+    ],
+    "GOALPARA_AS": [
+        [
+            {
+                "LOWER": "goalpara"
+            }
+        ]
+    ],
+    "GOLAGHAT_AS": [
+        [
+            {
+                "LOWER": "golaghat"
+            }
+        ]
+    ],
+    "HAILAKANDI_AS": [
+        [
+            {
+                "LOWER": "hailakandi"
+            }
+        ]
+    ],
+    "JORHAT_AS": [
+        [
+            {
+                "LOWER": "jorhat"
+            }
+        ]
+    ],
+    "KAMRUP_AS": [
+        [
+            {
+                "LOWER": "kamrup"
+            }
+        ]
+    ],
+    "KAMRUP METROPOLITAN_AS": [
+        [
+            {
+                "LOWER": "kamrup"
+            },
+            {
+                "LOWER": "metropolitan"
+            }
+        ]
+    ],
+    "KARBI ANGLONG_AS": [
+        [
+            {
+                "LOWER": "karbi"
+            },
+            {
+                "LOWER": "anglong"
+            }
+        ]
+    ],
+    "KARIMGANJ_AS": [
+        [
+            {
+                "LOWER": "karimganj"
+            }
+        ]
+    ],
+    "KOKRAJHAR_AS": [
+        [
+            {
+                "LOWER": "kokrajhar"
+            }
+        ]
+    ],
+    "LAKHIMPUR_AS": [
+        [
+            {
+                "LOWER": "lakhimpur"
+            }
+        ]
+    ],
+    "MARIGAON_AS": [
+        [
+            {
+                "LOWER": "marigaon"
+            }
+        ]
+    ],
+    "NAGAON_AS": [
+        [
+            {
+                "LOWER": "nagaon"
+            }
+        ]
+    ],
+    "NALBARI_AS": [
+        [
+            {
+                "LOWER": "nalbari"
+            }
+        ]
+    ],
+    "SIBSAGAR_AS": [
+        [
+            {
+                "LOWER": "sibsagar"
+            }
+        ]
+    ],
+    "SONITPUR_AS": [
+        [
+            {
+                "LOWER": "sonitpur"
+            }
+        ]
+    ],
+    "TINSUKIA_AS": [
+        [
+            {
+                "LOWER": "tinsukia"
+            }
+        ]
+    ],
+    "UDALGURI_AS": [
+        [
+            {
+                "LOWER": "udalguri"
+            }
+        ]
+    ],
+    "ARARIA_BR": [
+        [
+            {
+                "LOWER": "araria"
+            }
+        ]
+    ],
+    "ARWAL_BR": [
+        [
+            {
+                "LOWER": "arwal"
+            }
+        ]
+    ],
+    "AURANGABAD_BR": [
+        [
+            {
+                "LOWER": "aurangabad"
+            }
+        ]
+    ],
+    "BANKA_BR": [
+        [
+            {
+                "LOWER": "banka"
+            }
+        ]
+    ],
+    "BEGUSARAI_BR": [
+        [
+            {
+                "LOWER": "begusarai"
+            }
+        ]
+    ],
+    "BHAGALPUR_BR": [
+        [
+            {
+                "LOWER": "bhagalpur"
+            }
+        ]
+    ],
+    "BHOJPUR_BR": [
+        [
+            {
+                "LOWER": "bhojpur"
+            }
+        ]
+    ],
+    "BUXAR_BR": [
+        [
+            {
+                "LOWER": "buxar"
+            }
+        ]
+    ],
+    "DARBHANGA_BR": [
+        [
+            {
+                "LOWER": "darbhanga"
+            }
+        ]
+    ],
+    "GAYA_BR": [
+        [
+            {
+                "LOWER": "gaya"
+            }
+        ]
+    ],
+    "GOPALGANJ_BR": [
+        [
+            {
+                "LOWER": "gopalganj"
+            }
+        ]
+    ],
+    "JAMUI_BR": [
+        [
+            {
+                "LOWER": "jamui"
+            }
+        ]
+    ],
+    "JEHANABAD_BR": [
+        [
+            {
+                "LOWER": "jehanabad"
+            }
+        ]
+    ],
+    "KAIMUR (BHABUA)_BR": [
+        [
+            {
+                "LOWER": "kaimur"
+            }
+        ]
+    ],
+    "KATIHAR_BR": [
+        [
+            {
+                "LOWER": "katihar"
+            }
+        ]
+    ],
+    "KHAGARIA_BR": [
+        [
+            {
+                "LOWER": "khagaria"
+            }
+        ]
+    ],
+    "KISHANGANJ_BR": [
+        [
+            {
+                "LOWER": "kishanganj"
+            }
+        ]
+    ],
+    "LAKHISARAI_BR": [
+        [
+            {
+                "LOWER": "lakhisarai"
+            }
+        ]
+    ],
+    "MADHEPURA_BR": [
+        [
+            {
+                "LOWER": "madhepura"
+            }
+        ]
+    ],
+    "MADHUBANI_BR": [
+        [
+            {
+                "LOWER": "madhubani"
+            }
+        ]
+    ],
+    "MUNGER_BR": [
+        [
+            {
+                "LOWER": "munger"
+            }
+        ]
+    ],
+    "MUZAFFARPUR_BR": [
+        [
+            {
+                "LOWER": "muzaffarpur"
+            }
+        ]
+    ],
+    "NALANDA_BR": [
+        [
+            {
+                "LOWER": "nalanda"
+            }
+        ]
+    ],
+    "NAWADA_BR": [
+        [
+            {
+                "LOWER": "nawada"
+            }
+        ]
+    ],
+    "PASHCHIM CHAMPARAN_BR": [
+        [
+            {
+                "LOWER": "pashchim"
+            },
+            {
+                "LOWER": "champaran"
+            }
+        ]
+    ],
+    "PATNA_BR": [
+        [
+            {
+                "LOWER": "patna"
+            }
+        ]
+    ],
+    "PURBA CHAMPARAN_BR": [
+        [
+            {
+                "LOWER": "purba"
+            },
+            {
+                "LOWER": "champaran"
+            }
+        ]
+    ],
+    "PURNIA_BR": [
+        [
+            {
+                "LOWER": "purnia"
+            }
+        ]
+    ],
+    "ROHTAS_BR": [
+        [
+            {
+                "LOWER": "rohtas"
+            }
+        ]
+    ],
+    "SAHARSA_BR": [
+        [
+            {
+                "LOWER": "saharsa"
+            }
+        ]
+    ],
+    "SAMASTIPUR_BR": [
+        [
+            {
+                "LOWER": "samastipur"
+            }
+        ]
+    ],
+    "SARAN_BR": [
+        [
+            {
+                "LOWER": "saran"
+            }
+        ]
+    ],
+    "SHEIKHPURA_BR": [
+        [
+            {
+                "LOWER": "sheikhpura"
+            }
+        ]
+    ],
+    "SHEOHAR_BR": [
+        [
+            {
+                "LOWER": "sheohar"
+            }
+        ]
+    ],
+    "SITAMARHI_BR": [
+        [
+            {
+                "LOWER": "sitamarhi"
+            }
+        ]
+    ],
+    "SIWAN_BR": [
+        [
+            {
+                "LOWER": "siwan"
+            }
+        ]
+    ],
+    "SUPAUL_BR": [
+        [
+            {
+                "LOWER": "supaul"
+            }
+        ]
+    ],
+    "VAISHALI_BR": [
+        [
+            {
+                "LOWER": "vaishali"
+            }
+        ]
+    ],
+    "CHANDIGARH_CH": [
+        [
+            {
+                "LOWER": "chandigarh"
+            }
+        ]
+    ],
+    "BALOD_CT": [
+        [
+            {
+                "LOWER": "balod"
+            }
+        ]
+    ],
+    "BALODA BAZAR_CT": [
+        [
+            {
+                "LOWER": "baloda"
+            },
+            {
+                "LOWER": "bazar"
+            }
+        ]
+    ],
+    "BALRAMPUR_CT": [
+        [
+            {
+                "LOWER": "balrampur"
+            }
+        ]
+    ],
+    "BASTAR_CT": [
+        [
+            {
+                "LOWER": "bastar"
+            }
+        ]
+    ],
+    "BEMETARA_CT": [
+        [
+            {
+                "LOWER": "bemetara"
+            }
+        ]
+    ],
+    "BIJAPUR_CT": [
+        [
+            {
+                "LOWER": "bijapur"
+            }
+        ]
+    ],
+    "BILASPUR_CT": [
+        [
+            {
+                "LOWER": "bilaspur"
+            }
+        ]
+    ],
+    "DAKSHIN BASTAR DANTEWADA_CT": [
+        [
+            {
+                "LOWER": "dakshin"
+            },
+            {
+                "LOWER": "bastar"
+            },
+            {
+                "LOWER": "dantewada"
+            }
+        ]
+    ],
+    "DHAMTARI_CT": [
+        [
+            {
+                "LOWER": "dhamtari"
+            }
+        ]
+    ],
+    "DURG_CT": [
+        [
+            {
+                "LOWER": "durg"
+            }
+        ]
+    ],
+    "GARIYABAND_CT": [
+        [
+            {
+                "LOWER": "gariyaband"
+            }
+        ]
+    ],
+    "JANJGIR - CHAMPA_CT": [
+        [
+            {
+                "LOWER": "janjgir"
+            },
+            {
+                "LOWER": "champa"
+            }
+        ]
+    ],
+    "JASHPUR_CT": [
+        [
+            {
+                "LOWER": "jashpur"
+            }
+        ]
+    ],
+    "KABEERDHAM_CT": [
+        [
+            {
+                "LOWER": "kabeerdham"
+            }
+        ]
+    ],
+    "KONDAGAON_CT": [
+        [
+            {
+                "LOWER": "kondagaon"
+            }
+        ]
+    ],
+    "KORBA_CT": [
+        [
+            {
+                "LOWER": "korba"
+            }
+        ]
+    ],
+    "KORIYA_CT": [
+        [
+            {
+                "LOWER": "koriya"
+            }
+        ]
+    ],
+    "MAHASAMUND_CT": [
+        [
+            {
+                "LOWER": "mahasamund"
+            }
+        ]
+    ],
+    "MUNGELI_CT": [
+        [
+            {
+                "LOWER": "mungeli"
+            }
+        ]
+    ],
+    "NARAYANPUR_CT": [
+        [
+            {
+                "LOWER": "narayanpur"
+            }
+        ]
+    ],
+    "RAIGARH_CT": [
+        [
+            {
+                "LOWER": "raigarh"
+            }
+        ]
+    ],
+    "RAIPUR_CT": [
+        [
+            {
+                "LOWER": "raipur"
+            }
+        ]
+    ],
+    "RAJNANDGAON_CT": [
+        [
+            {
+                "LOWER": "rajnandgaon"
+            }
+        ]
+    ],
+    "SUKMA_CT": [
+        [
+            {
+                "LOWER": "sukma"
+            }
+        ]
+    ],
+    "SURAJPUR_CT": [
+        [
+            {
+                "LOWER": "surajpur"
+            }
+        ]
+    ],
+    "SURGUJA_CT": [
+        [
+            {
+                "LOWER": "surguja"
+            }
+        ]
+    ],
+    "DADRA & NAGAR HAVELI_DN": [
+        [
+            {
+                "LOWER": "dadra"
+            },
+            {
+                "ORTH": "&",
+                "LOWER": "and",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nagar"
+            },
+            {
+                "LOWER": "haveli"
+            }
+        ]
+    ],
+    "DAMAN_DD": [
+        [
+            {
+                "LOWER": "daman"
+            }
+        ]
+    ],
+    "DIU_DD": [
+        [
+            {
+                "LOWER": "diu"
+            }
+        ]
+    ],
+    "CENTRAL_DL": [
+        [
+            {
+                "LOWER": "central"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "EAST_DL": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "NEW DELHI_DL": [
+        [
+            {
+                "LOWER": "new"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "NORTH_DL": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "NORTH-EAST_DL": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "NORTH WEST_DL": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "SHAHDARA_DL": [
+        [
+            {
+                "LOWER": "shahdara"
+            }
+        ],
+        [
+            {
+                "LOWER": "shahadara"
+            }
+        ],
+        [
+            {
+                "LOWER": "shahadra"
+            }
+        ]
+    ],
+    "SOUTH_DL": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "SOUTH EAST DELHI_DL": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "SOUTH WEST DELHI_DL": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "WEST_DL": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "delhi"
+            }
+        ]
+    ],
+    "NORTH GOA_GA": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "goa"
+            }
+        ]
+    ],
+    "SOUTH GOA_GA": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "goa"
+            }
+        ]
+    ],
+    "AHMADABAD_GJ": [
+        [
+            {
+                "LOWER": "ahmadabad"
+            }
+        ],
+        [
+            {
+                "LOWER": "ahemdabad"
+            }
+        ],
+        [
+            {
+                "LOWER": "ahemadabad"
+            }
+        ]
+    ],
+    "AMRELI_GJ": [
+        [
+            {
+                "LOWER": "amreli"
+            }
+        ],
+        [
+            {
+                "LOWER": "amareli"
+            }
+        ]
+    ],
+    "ANAND_GJ": [
+        [
+            {
+                "LOWER": "anand"
+            }
+        ]
+    ],
+    "ARAVALLI_GJ": [
+        [
+            {
+                "LOWER": "aravalli"
+            }
+        ],
+        [
+            {
+                "LOWER": "aravali"
+            }
+        ],
+        [
+            {
+                "LOWER": "arawalli"
+            }
+        ],
+        [
+            {
+                "LOWER": "arawali"
+            }
+        ]
+    ],
+    "BANAS KANTHA_GJ": [
+        [
+            {
+                "LOWER": "banas"
+            },
+            {
+                "LOWER": "kantha",
+                "OP": "?"
+            }
+        ]
+    ],
+    "BHARUCH_GJ": [
+        [
+            {
+                "LOWER": "bharuch"
+            }
+        ]
+    ],
+    "BHAVNAGAR_GJ": [
+        [
+            {
+                "LOWER": "bhavnagar"
+            }
+        ]
+    ],
+    "BOTAD_GJ": [
+        [
+            {
+                "LOWER": "botad"
+            }
+        ]
+    ],
+    "CHHOTA UDEPUR_GJ": [
+        [
+            {
+                "LOWER": "chhota"
+            },
+            {
+                "LOWER": "udepur"
+            }
+        ]
+    ],
+    "DEVBHOOMI DWARKA_GJ": [
+        [
+            {
+                "LOWER": "devbhoomi"
+            },
+            {
+                "LOWER": "dwarka"
+            }
+        ]
+    ],
+    "DOHAD_GJ": [
+        [
+            {
+                "LOWER": "dohad"
+            }
+        ]
+    ],
+    "GANDHINAGAR_GJ": [
+        [
+            {
+                "LOWER": "gandhinagar"
+            }
+        ]
+    ],
+    "GIR SOMNATH_GJ": [
+        [
+            {
+                "LOWER": "gir"
+            },
+            {
+                "LOWER": "somnath"
+            }
+        ]
+    ],
+    "JAMNAGAR_GJ": [
+        [
+            {
+                "LOWER": "jamnagar"
+            }
+        ]
+    ],
+    "JUNAGADH_GJ": [
+        [
+            {
+                "LOWER": "junagadh"
+            }
+        ]
+    ],
+    "KACHCHH_GJ": [
+        [
+            {
+                "LOWER": "kachchh"
+            }
+        ]
+    ],
+    "KHEDA_GJ": [
+        [
+            {
+                "LOWER": "kheda"
+            }
+        ]
+    ],
+    "MAHESANA_GJ": [
+        [
+            {
+                "LOWER": "mahesana"
+            }
+        ]
+    ],
+    "MAHISAGAR_GJ": [
+        [
+            {
+                "LOWER": "mahisagar"
+            }
+        ]
+    ],
+    "MORBI_GJ": [
+        [
+            {
+                "LOWER": "morbi"
+            }
+        ]
+    ],
+    "NARMADA_GJ": [
+        [
+            {
+                "LOWER": "narmada"
+            }
+        ]
+    ],
+    "NAVSARI_GJ": [
+        [
+            {
+                "LOWER": "navsari"
+            }
+        ]
+    ],
+    "PANCH MAHALS_GJ": [
+        [
+            {
+                "LOWER": "panch"
+            },
+            {
+                "LOWER": "mahals"
+            }
+        ],
+        [
+            {
+                "LOWER": "panch"
+            },
+            {
+                "LOWER": "mahal"
+            }
+        ],
+        [
+            {
+                "LOWER": "paach"
+            },
+            {
+                "LOWER": "mahal"
+            }
+        ]
+    ],
+    "PATAN_GJ": [
+        [
+            {
+                "LOWER": "patan"
+            }
+        ],
+        [
+            {
+                "LOWER": "paatan"
+            }
+        ]
+    ],
+    "PORBANDAR_GJ": [
+        [
+            {
+                "LOWER": "porbandar"
+            }
+        ]
+    ],
+    "RAJKOT_GJ": [
+        [
+            {
+                "LOWER": "rajkot"
+            }
+        ]
+    ],
+    "SABAR KANTHA_GJ": [
+        [
+            {
+                "LOWER": "sabar"
+            },
+            {
+                "LOWER": "kantha",
+                "OP": "?"
+            }
+        ]
+    ],
+    "SURAT_GJ": [
+        [
+            {
+                "LOWER": "surat"
+            }
+        ],
+        [
+            {
+                "LOWER": "soorat"
+            }
+        ]
+    ],
+    "SURENDRANAGAR_GJ": [
+        [
+            {
+                "LOWER": "surendranagar"
+            }
+        ],
+        [
+            {
+                "LOWER": "surendra"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "TAPI_GJ": [
+        [
+            {
+                "LOWER": "tapi"
+            }
+        ],
+        [
+            {
+                "LOWER": "taapi"
+            }
+        ]
+    ],
+    "THE DANGS_GJ": [
+        [
+            {
+                "LOWER": "the",
+                "OP": "?"
+            },
+            {
+                "LOWER": "dangs"
+            }
+        ],
+        [
+            {
+                "LOWER": "the",
+                "OP": "?"
+            },
+            {
+                "LOWER": "daangs"
+            }
+        ]
+    ],
+    "VADODARA_GJ": [
+        [
+            {
+                "LOWER": "vadodara"
+            }
+        ],
+        [
+            {
+                "LOWER": "baroda"
+            }
+        ],
+        [
+            {
+                "LOWER": "vadauda"
+            }
+        ],
+        [
+            {
+                "LOWER": "badoda"
+            }
+        ]
+    ],
+    "VALSAD_GJ": [
+        [
+            {
+                "LOWER": "valsad"
+            }
+        ]
+    ],
+    "AMBALA_HR": [
+        [
+            {
+                "LOWER": "ambala"
+            }
+        ],
+        [
+            {
+                "LOWER": "ambaala"
+            }
+        ]
+    ],
+    "BHIWANI_HR": [
+        [
+            {
+                "LOWER": "bhiwani"
+            }
+        ]
+    ],
+    "FARIDABAD_HR": [
+        [
+            {
+                "LOWER": "faridabad"
+            }
+        ]
+    ],
+    "FATEHABAD_HR": [
+        [
+            {
+                "LOWER": "fatehabad"
+            }
+        ]
+    ],
+    "GURGAON_HR": [
+        [
+            {
+                "LOWER": "gurgaon"
+            }
+        ],
+        [
+            {
+                "LOWER": "gurugram"
+            }
+        ],
+        [
+            {
+                "LOWER": "gurgao"
+            }
+        ]
+    ],
+    "HISAR_HR": [
+        [
+            {
+                "LOWER": "hisar"
+            }
+        ],
+        [
+            {
+                "LOWER": "hissar"
+            }
+        ]
+    ],
+    "JHAJJAR_HR": [
+        [
+            {
+                "LOWER": "jhajjar"
+            }
+        ],
+        [
+            {
+                "LOWER": "jhajar"
+            }
+        ]
+    ],
+    "JIND_HR": [
+        [
+            {
+                "LOWER": "jind"
+            }
+        ],
+        [
+            {
+                "LOWER": "zind"
+            }
+        ]
+    ],
+    "KAITHAL_HR": [
+        [
+            {
+                "LOWER": "kaithal"
+            }
+        ],
+        [
+            {
+                "LOWER": "kethal"
+            }
+        ]
+    ],
+    "KARNAL_HR": [
+        [
+            {
+                "LOWER": "karnal"
+            }
+        ],
+        [
+            {
+                "LOWER": "karnaal"
+            }
+        ]
+    ],
+    "KURUKSHETRA_HR": [
+        [
+            {
+                "LOWER": "kurukshetra"
+            }
+        ],
+        [
+            {
+                "LOWER": "kurukshetr"
+            }
+        ]
+    ],
+    "MAHENDRAGARH_HR": [
+        [
+            {
+                "LOWER": "mahendragarh"
+            }
+        ],
+        [
+            {
+                "LOWER": "mahendargarh"
+            }
+        ],
+        [
+            {
+                "LOWER": "mahendargadh"
+            }
+        ]
+    ],
+    "MEWAT_HR": [
+        [
+            {
+                "LOWER": "mewat"
+            }
+        ],
+        [
+            {
+                "LOWER": "mewaat"
+            }
+        ]
+    ],
+    "PALWAL_HR": [
+        [
+            {
+                "LOWER": "palwal"
+            }
+        ],
+        [
+            {
+                "LOWER": "palwad"
+            }
+        ],
+        [
+            {
+                "LOWER": "palwar"
+            }
+        ]
+    ],
+    "PANCHKULA_HR": [
+        [
+            {
+                "LOWER": "panchkula"
+            }
+        ],
+        [
+            {
+                "LOWER": "paachkula"
+            }
+        ]
+    ],
+    "PANIPAT_HR": [
+        [
+            {
+                "LOWER": "panipat"
+            }
+        ],
+        [
+            {
+                "LOWER": "panipath"
+            }
+        ],
+        [
+            {
+                "LOWER": "paanipat"
+            }
+        ],
+        [
+            {
+                "LOWER": "paanipath"
+            }
+        ]
+    ],
+    "REWARI_HR": [
+        [
+            {
+                "LOWER": "rewari"
+            }
+        ],
+        [
+            {
+                "LOWER": "rewadi"
+            }
+        ],
+        [
+            {
+                "LOWER": "revari"
+            }
+        ],
+        [
+            {
+                "LOWER": "revaari"
+            }
+        ]
+    ],
+    "ROHTAK_HR": [
+        [
+            {
+                "LOWER": "rohtak"
+            }
+        ]
+    ],
+    "SIRSA_HR": [
+        [
+            {
+                "LOWER": "sirsa"
+            }
+        ]
+    ],
+    "SONIPAT_HR": [
+        [
+            {
+                "LOWER": "sonipat"
+            }
+        ]
+    ],
+    "YAMUNANAGAR_HR": [
+        [
+            {
+                "LOWER": "yamunanagar"
+            }
+        ]
+    ],
+    "BILASPUR_HP": [
+        [
+            {
+                "LOWER": "bilaspur"
+            }
+        ]
+    ],
+    "CHAMBA_HP": [
+        [
+            {
+                "LOWER": "chamba"
+            }
+        ]
+    ],
+    "HAMIRPUR_HP": [
+        [
+            {
+                "LOWER": "hamirpur"
+            }
+        ]
+    ],
+    "KANGRA_HP": [
+        [
+            {
+                "LOWER": "kangra"
+            }
+        ]
+    ],
+    "KINNAUR_HP": [
+        [
+            {
+                "LOWER": "kinnaur"
+            }
+        ]
+    ],
+    "KULLU_HP": [
+        [
+            {
+                "LOWER": "kullu"
+            }
+        ]
+    ],
+    "LAHUL & SPITI_HP": [
+        [
+            {
+                "LOWER": "lahul"
+            },
+            {
+                "LOWER": "&"
+            },
+            {
+                "LOWER": "spiti"
+            }
+        ]
+    ],
+    "MANDI_HP": [
+        [
+            {
+                "LOWER": "mandi"
+            }
+        ]
+    ],
+    "SHIMLA_HP": [
+        [
+            {
+                "LOWER": "shimla"
+            }
+        ]
+    ],
+    "SIRMAUR_HP": [
+        [
+            {
+                "LOWER": "sirmaur"
+            }
+        ]
+    ],
+    "SOLAN_HP": [
+        [
+            {
+                "LOWER": "solan"
+            }
+        ]
+    ],
+    "UNA_HP": [
+        [
+            {
+                "LOWER": "una"
+            }
+        ]
+    ],
+    "ANANTNAG_JK": [
+        [
+            {
+                "LOWER": "anantnag"
+            }
+        ]
+    ],
+    "BADGAM_JK": [
+        [
+            {
+                "LOWER": "badgam"
+            }
+        ]
+    ],
+    "BANDIPORE_JK": [
+        [
+            {
+                "LOWER": "bandipore"
+            }
+        ]
+    ],
+    "BARAMULA_JK": [
+        [
+            {
+                "LOWER": "baramula"
+            }
+        ]
+    ],
+    "DODA_JK": [
+        [
+            {
+                "LOWER": "doda"
+            }
+        ]
+    ],
+    "GANDERBAL_JK": [
+        [
+            {
+                "LOWER": "ganderbal"
+            }
+        ]
+    ],
+    "JAMMU_JK": [
+        [
+            {
+                "LOWER": "jammu"
+            }
+        ]
+    ],
+    "KARGIL_JK": [
+        [
+            {
+                "LOWER": "kargil"
+            }
+        ]
+    ],
+    "KATHUA_JK": [
+        [
+            {
+                "LOWER": "kathua"
+            }
+        ]
+    ],
+    "KISHTWAR_JK": [
+        [
+            {
+                "LOWER": "kishtwar"
+            }
+        ]
+    ],
+    "KULGAM_JK": [
+        [
+            {
+                "LOWER": "kulgam"
+            }
+        ]
+    ],
+    "KUPWARA_JK": [
+        [
+            {
+                "LOWER": "kupwara"
+            }
+        ]
+    ],
+    "LEH_JK": [
+        [
+            {
+                "LOWER": "leh"
+            }
+        ]
+    ],
+    "PULWAMA_JK": [
+        [
+            {
+                "LOWER": "pulwama"
+            }
+        ]
+    ],
+    "PUNCH_JK": [
+        [
+            {
+                "LOWER": "punch"
+            }
+        ]
+    ],
+    "RAJAURI_JK": [
+        [
+            {
+                "LOWER": "rajauri"
+            }
+        ]
+    ],
+    "RAMBAN_JK": [
+        [
+            {
+                "LOWER": "ramban"
+            }
+        ]
+    ],
+    "REASI_JK": [
+        [
+            {
+                "LOWER": "reasi"
+            }
+        ]
+    ],
+    "SAMBA_JK": [
+        [
+            {
+                "LOWER": "samba"
+            }
+        ]
+    ],
+    "SHUPIYAN_JK": [
+        [
+            {
+                "LOWER": "shupiyan"
+            }
+        ]
+    ],
+    "SRINAGAR_JK": [
+        [
+            {
+                "LOWER": "srinagar"
+            }
+        ]
+    ],
+    "UDHAMPUR_JK": [
+        [
+            {
+                "LOWER": "udhampur"
+            }
+        ]
+    ],
+    "BOKARO_JH": [
+        [
+            {
+                "LOWER": "bokaro"
+            }
+        ]
+    ],
+    "CHATRA_JH": [
+        [
+            {
+                "LOWER": "chatra"
+            }
+        ]
+    ],
+    "DEOGHAR_JH": [
+        [
+            {
+                "LOWER": "deoghar"
+            }
+        ]
+    ],
+    "DHANBAD_JH": [
+        [
+            {
+                "LOWER": "dhanbad"
+            }
+        ]
+    ],
+    "DUMKA_JH": [
+        [
+            {
+                "LOWER": "dumka"
+            }
+        ]
+    ],
+    "GARHWA_JH": [
+        [
+            {
+                "LOWER": "garhwa"
+            }
+        ]
+    ],
+    "GIRIDIH_JH": [
+        [
+            {
+                "LOWER": "giridih"
+            }
+        ]
+    ],
+    "GODDA_JH": [
+        [
+            {
+                "LOWER": "godda"
+            }
+        ]
+    ],
+    "GUMLA_JH": [
+        [
+            {
+                "LOWER": "gumla"
+            }
+        ]
+    ],
+    "HAZARIBAGH_JH": [
+        [
+            {
+                "LOWER": "hazaribagh"
+            }
+        ]
+    ],
+    "JAMTARA_JH": [
+        [
+            {
+                "LOWER": "jamtara"
+            }
+        ]
+    ],
+    "KHUNTI_JH": [
+        [
+            {
+                "LOWER": "khunti"
+            }
+        ]
+    ],
+    "KODERMA_JH": [
+        [
+            {
+                "LOWER": "koderma"
+            }
+        ]
+    ],
+    "LATEHAR_JH": [
+        [
+            {
+                "LOWER": "latehar"
+            }
+        ]
+    ],
+    "LOHARDAGA_JH": [
+        [
+            {
+                "LOWER": "lohardaga"
+            }
+        ]
+    ],
+    "PAKAUR_JH": [
+        [
+            {
+                "LOWER": "pakaur"
+            }
+        ]
+    ],
+    "PALAMU_JH": [
+        [
+            {
+                "LOWER": "palamu"
+            }
+        ]
+    ],
+    "PASHCHIMI SINGHBHUM_JH": [
+        [
+            {
+                "LOWER": "pashchimi"
+            },
+            {
+                "LOWER": "singhbhum"
+            }
+        ]
+    ],
+    "PURBI SINGHBHUM_JH": [
+        [
+            {
+                "LOWER": "purbi"
+            },
+            {
+                "LOWER": "singhbhum"
+            }
+        ]
+    ],
+    "RAMGARH_JH": [
+        [
+            {
+                "LOWER": "ramgarh"
+            }
+        ]
+    ],
+    "RANCHI_JH": [
+        [
+            {
+                "LOWER": "ranchi"
+            }
+        ]
+    ],
+    "SAHIBGANJ_JH": [
+        [
+            {
+                "LOWER": "sahibganj"
+            }
+        ]
+    ],
+    "SARIKELA-KHARSWANA_JH": [
+        [
+            {
+                "LOWER": "sarikela"
+            },
+            {
+                "LOWER": "kharswana"
+            }
+        ]
+    ],
+    "SIMDEGA_JH": [
+        [
+            {
+                "LOWER": "simdega"
+            }
+        ]
+    ],
+    "BAGALKOT_KA": [
+        [
+            {
+                "LOWER": "bagalkot"
+            }
+        ]
+    ],
+    "BANGALORE_KA": [
+        [
+            {
+                "LOWER": "bangalore"
+            }
+        ]
+    ],
+    "BANGALORE RURAL_KA": [
+        [
+            {
+                "LOWER": "bangalore"
+            },
+            {
+                "LOWER": "rural"
+            }
+        ]
+    ],
+    "BELGAUM_KA": [
+        [
+            {
+                "LOWER": "belgaum"
+            }
+        ]
+    ],
+    "BELLARY_KA": [
+        [
+            {
+                "LOWER": "bellary"
+            }
+        ]
+    ],
+    "BIDAR_KA": [
+        [
+            {
+                "LOWER": "bidar"
+            }
+        ]
+    ],
+    "BIJAPUR_KA": [
+        [
+            {
+                "LOWER": "bijapur"
+            }
+        ]
+    ],
+    "CHAMARAJANAGAR_KA": [
+        [
+            {
+                "LOWER": "chamarajanagar"
+            }
+        ]
+    ],
+    "CHIKKABALLAPURA_KA": [
+        [
+            {
+                "LOWER": "chikkaballapura"
+            }
+        ]
+    ],
+    "CHIKMAGALUR_KA": [
+        [
+            {
+                "LOWER": "chikmagalur"
+            }
+        ]
+    ],
+    "CHITRADURGA_KA": [
+        [
+            {
+                "LOWER": "chitradurga"
+            }
+        ]
+    ],
+    "DAKSHINA KANNADA_KA": [
+        [
+            {
+                "LOWER": "dakshina"
+            },
+            {
+                "LOWER": "kannada"
+            }
+        ]
+    ],
+    "DAVANAGERE_KA": [
+        [
+            {
+                "LOWER": "davanagere"
+            }
+        ]
+    ],
+    "DHARWAD_KA": [
+        [
+            {
+                "LOWER": "dharwad"
+            }
+        ]
+    ],
+    "GADAG_KA": [
+        [
+            {
+                "LOWER": "gadag"
+            }
+        ]
+    ],
+    "GULBARGA_KA": [
+        [
+            {
+                "LOWER": "gulbarga"
+            }
+        ]
+    ],
+    "HASSAN_KA": [
+        [
+            {
+                "LOWER": "hassan"
+            }
+        ]
+    ],
+    "HAVERI_KA": [
+        [
+            {
+                "LOWER": "haveri"
+            }
+        ]
+    ],
+    "KODAGU_KA": [
+        [
+            {
+                "LOWER": "kodagu"
+            }
+        ]
+    ],
+    "KOLAR_KA": [
+        [
+            {
+                "LOWER": "kolar"
+            }
+        ]
+    ],
+    "KOPPAL_KA": [
+        [
+            {
+                "LOWER": "koppal"
+            }
+        ]
+    ],
+    "MANDYA_KA": [
+        [
+            {
+                "LOWER": "mandya"
+            }
+        ]
+    ],
+    "MYSORE_KA": [
+        [
+            {
+                "LOWER": "mysore"
+            }
+        ]
+    ],
+    "RAICHUR_KA": [
+        [
+            {
+                "LOWER": "raichur"
+            }
+        ]
+    ],
+    "RAMANAGARA_KA": [
+        [
+            {
+                "LOWER": "ramanagara"
+            }
+        ]
+    ],
+    "SHIMOGA_KA": [
+        [
+            {
+                "LOWER": "shimoga"
+            }
+        ]
+    ],
+    "TUMKUR_KA": [
+        [
+            {
+                "LOWER": "tumkur"
+            }
+        ]
+    ],
+    "UDUPI_KA": [
+        [
+            {
+                "LOWER": "udupi"
+            }
+        ]
+    ],
+    "UTTARA KANNADA_KA": [
+        [
+            {
+                "LOWER": "uttara"
+            },
+            {
+                "LOWER": "kannada"
+            }
+        ]
+    ],
+    "YADGIR_KA": [
+        [
+            {
+                "LOWER": "yadgir"
+            }
+        ]
+    ],
+    "ALAPPUZHA_KL": [
+        [
+            {
+                "LOWER": "alappuzha"
+            }
+        ]
+    ],
+    "ERNAKULAM_KL": [
+        [
+            {
+                "LOWER": "ernakulam"
+            }
+        ]
+    ],
+    "IDUKKI_KL": [
+        [
+            {
+                "LOWER": "idukki"
+            }
+        ]
+    ],
+    "KANNUR_KL": [
+        [
+            {
+                "LOWER": "kannur"
+            }
+        ]
+    ],
+    "KASARAGOD_KL": [
+        [
+            {
+                "LOWER": "kasaragod"
+            }
+        ]
+    ],
+    "KOLLAM_KL": [
+        [
+            {
+                "LOWER": "kollam"
+            }
+        ]
+    ],
+    "KOTTAYAM_KL": [
+        [
+            {
+                "LOWER": "kottayam"
+            }
+        ]
+    ],
+    "KOZHIKODE_KL": [
+        [
+            {
+                "LOWER": "kozhikode"
+            }
+        ]
+    ],
+    "MALAPPURAM_KL": [
+        [
+            {
+                "LOWER": "malappuram"
+            }
+        ]
+    ],
+    "PALAKKAD_KL": [
+        [
+            {
+                "LOWER": "palakkad"
+            }
+        ]
+    ],
+    "PATHANAMTHITTA_KL": [
+        [
+            {
+                "LOWER": "pathanamthitta"
+            }
+        ]
+    ],
+    "THIRUVANANTHAPURAM_KL": [
+        [
+            {
+                "LOWER": "thiruvananthapuram"
+            }
+        ]
+    ],
+    "THRISSUR_KL": [
+        [
+            {
+                "LOWER": "thrissur"
+            }
+        ]
+    ],
+    "WAYANAD_KL": [
+        [
+            {
+                "LOWER": "wayanad"
+            }
+        ]
+    ],
+    "LAKSHADWEEP_LD": [
+        [
+            {
+                "LOWER": "lakshadweep"
+            }
+        ]
+    ],
+    "AGAR MALWA_MP": [
+        [
+            {
+                "LOWER": "agar"
+            },
+            {
+                "LOWER": "malwa"
+            }
+        ]
+    ],
+    "ALIRAJPUR_MP": [
+        [
+            {
+                "LOWER": "alirajpur"
+            }
+        ]
+    ],
+    "ANUPPUR_MP": [
+        [
+            {
+                "LOWER": "anuppur"
+            }
+        ]
+    ],
+    "ASHOKNAGAR_MP": [
+        [
+            {
+                "LOWER": "ashoknagar"
+            }
+        ]
+    ],
+    "BALAGHAT_MP": [
+        [
+            {
+                "LOWER": "balaghat"
+            }
+        ]
+    ],
+    "BARWANI_MP": [
+        [
+            {
+                "LOWER": "barwani"
+            }
+        ]
+    ],
+    "BETUL_MP": [
+        [
+            {
+                "LOWER": "betul"
+            }
+        ]
+    ],
+    "BHIND_MP": [
+        [
+            {
+                "LOWER": "bhind"
+            }
+        ]
+    ],
+    "BHOPAL_MP": [
+        [
+            {
+                "LOWER": "bhopal"
+            }
+        ]
+    ],
+    "BURHANPUR_MP": [
+        [
+            {
+                "LOWER": "burhanpur"
+            }
+        ]
+    ],
+    "CHHATARPUR_MP": [
+        [
+            {
+                "LOWER": "chhatarpur"
+            }
+        ]
+    ],
+    "CHHINDWARA_MP": [
+        [
+            {
+                "LOWER": "chhindwara"
+            }
+        ]
+    ],
+    "DAMOH_MP": [
+        [
+            {
+                "LOWER": "damoh"
+            }
+        ]
+    ],
+    "DATIA_MP": [
+        [
+            {
+                "LOWER": "datia"
+            }
+        ]
+    ],
+    "DEWAS_MP": [
+        [
+            {
+                "LOWER": "dewas"
+            }
+        ]
+    ],
+    "DHAR_MP": [
+        [
+            {
+                "LOWER": "dhar"
+            }
+        ]
+    ],
+    "DINDORI_MP": [
+        [
+            {
+                "LOWER": "dindori"
+            }
+        ]
+    ],
+    "EAST NIMAR_MP": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "nimar"
+            }
+        ]
+    ],
+    "GUNA_MP": [
+        [
+            {
+                "LOWER": "guna"
+            }
+        ]
+    ],
+    "GWALIOR_MP": [
+        [
+            {
+                "LOWER": "gwalior"
+            }
+        ]
+    ],
+    "HARDA_MP": [
+        [
+            {
+                "LOWER": "harda"
+            }
+        ]
+    ],
+    "HOSHANGABAD_MP": [
+        [
+            {
+                "LOWER": "hoshangabad"
+            }
+        ]
+    ],
+    "INDORE_MP": [
+        [
+            {
+                "LOWER": "indore"
+            }
+        ]
+    ],
+    "JABALPUR_MP": [
+        [
+            {
+                "LOWER": "jabalpur"
+            }
+        ]
+    ],
+    "JHABUA_MP": [
+        [
+            {
+                "LOWER": "jhabua"
+            }
+        ]
+    ],
+    "KATNI_MP": [
+        [
+            {
+                "LOWER": "katni"
+            }
+        ]
+    ],
+    "MANDLA_MP": [
+        [
+            {
+                "LOWER": "mandla"
+            }
+        ]
+    ],
+    "MANDSAUR_MP": [
+        [
+            {
+                "LOWER": "mandsaur"
+            }
+        ]
+    ],
+    "MORENA_MP": [
+        [
+            {
+                "LOWER": "morena"
+            }
+        ]
+    ],
+    "NARSIMHAPUR_MP": [
+        [
+            {
+                "LOWER": "narsimhapur"
+            }
+        ]
+    ],
+    "NEEMUCH_MP": [
+        [
+            {
+                "LOWER": "neemuch"
+            }
+        ]
+    ],
+    "PANNA_MP": [
+        [
+            {
+                "LOWER": "panna"
+            }
+        ]
+    ],
+    "RAISEN_MP": [
+        [
+            {
+                "LOWER": "raisen"
+            }
+        ]
+    ],
+    "RAJGARH_MP": [
+        [
+            {
+                "LOWER": "rajgarh"
+            }
+        ]
+    ],
+    "RATLAM_MP": [
+        [
+            {
+                "LOWER": "ratlam"
+            }
+        ]
+    ],
+    "REWA_MP": [
+        [
+            {
+                "LOWER": "rewa"
+            }
+        ]
+    ],
+    "SAGAR_MP": [
+        [
+            {
+                "LOWER": "sagar"
+            }
+        ]
+    ],
+    "SATNA_MP": [
+        [
+            {
+                "LOWER": "satna"
+            }
+        ]
+    ],
+    "SEHORE_MP": [
+        [
+            {
+                "LOWER": "sehore"
+            }
+        ]
+    ],
+    "SEONI_MP": [
+        [
+            {
+                "LOWER": "seoni"
+            }
+        ]
+    ],
+    "SHAHDOL_MP": [
+        [
+            {
+                "LOWER": "shahdol"
+            }
+        ]
+    ],
+    "SHAJAPUR_MP": [
+        [
+            {
+                "LOWER": "shajapur"
+            }
+        ]
+    ],
+    "SHEOPUR_MP": [
+        [
+            {
+                "LOWER": "sheopur"
+            }
+        ]
+    ],
+    "SHIVPURI_MP": [
+        [
+            {
+                "LOWER": "shivpuri"
+            }
+        ]
+    ],
+    "SIDHI_MP": [
+        [
+            {
+                "LOWER": "sidhi"
+            }
+        ]
+    ],
+    "SINGRAULI_MP": [
+        [
+            {
+                "LOWER": "singrauli"
+            }
+        ]
+    ],
+    "TIKAMGARH_MP": [
+        [
+            {
+                "LOWER": "tikamgarh"
+            }
+        ]
+    ],
+    "UJJAIN_MP": [
+        [
+            {
+                "LOWER": "ujjain"
+            }
+        ]
+    ],
+    "UMARIA_MP": [
+        [
+            {
+                "LOWER": "umaria"
+            }
+        ]
+    ],
+    "VIDISHA_MP": [
+        [
+            {
+                "LOWER": "vidisha"
+            }
+        ]
+    ],
+    "WEST NIMAR_MP": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "nimar"
+            }
+        ]
+    ],
+    "AHMADNAGAR_MH": [
+        [
+            {
+                "LOWER": "ahmadnagar"
+            }
+        ]
+    ],
+    "AKOLA_MH": [
+        [
+            {
+                "LOWER": "akola"
+            }
+        ]
+    ],
+    "AMRAVATI_MH": [
+        [
+            {
+                "LOWER": "amravati"
+            }
+        ]
+    ],
+    "AURANGABAD_MH": [
+        [
+            {
+                "LOWER": "aurangabad"
+            }
+        ]
+    ],
+    "BHANDARA_MH": [
+        [
+            {
+                "LOWER": "bhandara"
+            }
+        ]
+    ],
+    "BID_MH": [
+        [
+            {
+                "LOWER": "bid"
+            }
+        ]
+    ],
+    "BULDANA_MH": [
+        [
+            {
+                "LOWER": "buldana"
+            }
+        ]
+    ],
+    "CHANDRAPUR_MH": [
+        [
+            {
+                "LOWER": "chandrapur"
+            }
+        ]
+    ],
+    "DHULE_MH": [
+        [
+            {
+                "LOWER": "dhule"
+            }
+        ]
+    ],
+    "GADCHIROLI_MH": [
+        [
+            {
+                "LOWER": "gadchiroli"
+            }
+        ]
+    ],
+    "GONDIYA_MH": [
+        [
+            {
+                "LOWER": "gondiya"
+            }
+        ]
+    ],
+    "HINGOLI_MH": [
+        [
+            {
+                "LOWER": "hingoli"
+            }
+        ]
+    ],
+    "JALGAON_MH": [
+        [
+            {
+                "LOWER": "jalgaon"
+            }
+        ]
+    ],
+    "JALNA_MH": [
+        [
+            {
+                "LOWER": "jalna"
+            }
+        ]
+    ],
+    "KOLHAPUR_MH": [
+        [
+            {
+                "LOWER": "kolhapur"
+            }
+        ]
+    ],
+    "LATUR_MH": [
+        [
+            {
+                "LOWER": "latur"
+            }
+        ]
+    ],
+    "MUMBAI_MH": [
+        [
+            {
+                "LOWER": "mumbai"
+            }
+        ]
+    ],
+    "MUMBAI (SUBURBAN)_MH": [
+        [
+            {
+                "LOWER": "mumbai"
+            }
+        ]
+    ],
+    "NAGPUR_MH": [
+        [
+            {
+                "LOWER": "nagpur"
+            }
+        ]
+    ],
+    "NANDED_MH": [
+        [
+            {
+                "LOWER": "nanded"
+            }
+        ]
+    ],
+    "NANDURBAR_MH": [
+        [
+            {
+                "LOWER": "nandurbar"
+            }
+        ]
+    ],
+    "NASHIK_MH": [
+        [
+            {
+                "LOWER": "nashik"
+            }
+        ]
+    ],
+    "OSMANABAD_MH": [
+        [
+            {
+                "LOWER": "osmanabad"
+            }
+        ]
+    ],
+    "PARBHANI_MH": [
+        [
+            {
+                "LOWER": "parbhani"
+            }
+        ]
+    ],
+    "PUNE_MH": [
+        [
+            {
+                "LOWER": "pune"
+            }
+        ]
+    ],
+    "RAIGARH_MH": [
+        [
+            {
+                "LOWER": "raigarh"
+            }
+        ]
+    ],
+    "RATNAGIRI_MH": [
+        [
+            {
+                "LOWER": "ratnagiri"
+            }
+        ]
+    ],
+    "SANGLI_MH": [
+        [
+            {
+                "LOWER": "sangli"
+            }
+        ]
+    ],
+    "SATARA_MH": [
+        [
+            {
+                "LOWER": "satara"
+            }
+        ]
+    ],
+    "SINDHUDURG_MH": [
+        [
+            {
+                "LOWER": "sindhudurg"
+            }
+        ]
+    ],
+    "SOLAPUR_MH": [
+        [
+            {
+                "LOWER": "solapur"
+            }
+        ]
+    ],
+    "THANE_MH": [
+        [
+            {
+                "LOWER": "thane"
+            }
+        ]
+    ],
+    "WARDHA_MH": [
+        [
+            {
+                "LOWER": "wardha"
+            }
+        ]
+    ],
+    "WASHIM_MH": [
+        [
+            {
+                "LOWER": "washim"
+            }
+        ]
+    ],
+    "YAVATMAL_MH": [
+        [
+            {
+                "LOWER": "yavatmal"
+            }
+        ]
+    ],
+    "BISHNUPUR_MN": [
+        [
+            {
+                "LOWER": "bishnupur"
+            }
+        ]
+    ],
+    "CHANDEL_MN": [
+        [
+            {
+                "LOWER": "chandel"
+            }
+        ]
+    ],
+    "CHURUCHANDPUR_MN": [
+        [
+            {
+                "LOWER": "churuchandpur"
+            }
+        ]
+    ],
+    "IMPHAL EAST_MN": [
+        [
+            {
+                "LOWER": "imphal"
+            },
+            {
+                "LOWER": "east"
+            }
+        ]
+    ],
+    "IMPHAL WEST_MN": [
+        [
+            {
+                "LOWER": "imphal"
+            },
+            {
+                "LOWER": "west"
+            }
+        ]
+    ],
+    "SENAPATI_MN": [
+        [
+            {
+                "LOWER": "senapati"
+            }
+        ]
+    ],
+    "TAMENGLONG_MN": [
+        [
+            {
+                "LOWER": "tamenglong"
+            }
+        ]
+    ],
+    "THOUBAL_MN": [
+        [
+            {
+                "LOWER": "thoubal"
+            }
+        ]
+    ],
+    "UKHRUL_MN": [
+        [
+            {
+                "LOWER": "ukhrul"
+            }
+        ]
+    ],
+    "EAST GARO HILLS_ML": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "garo"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "EAST JAINTIA HILLS_ML": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "jaintia"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "EAST KHASI HILLS_ML": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "khasi"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "JAINTIA HILLS_ML": [
+        [
+            {
+                "LOWER": "jaintia"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "NORTH GARO HILLS_ML": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "garo"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "RI BHOI_ML": [
+        [
+            {
+                "LOWER": "ri"
+            },
+            {
+                "LOWER": "bhoi"
+            }
+        ]
+    ],
+    "SOUTH GARO HILLS_ML": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "garo"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "SOUTH WEST GARO HILLS_ML": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "garo"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "SOUTH WEST KHASI HILLS_ML": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "khasi"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "WEST GARO HILLS_ML": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "garo"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "WEST KHASI HILLS_ML": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "khasi"
+            },
+            {
+                "LOWER": "hills"
+            }
+        ]
+    ],
+    "AIZAWL_MZ": [
+        [
+            {
+                "LOWER": "aizawl"
+            }
+        ]
+    ],
+    "CHAMPHAI_MZ": [
+        [
+            {
+                "LOWER": "champhai"
+            }
+        ]
+    ],
+    "KOLASIB_MZ": [
+        [
+            {
+                "LOWER": "kolasib"
+            }
+        ]
+    ],
+    "LAWNGTLAI_MZ": [
+        [
+            {
+                "LOWER": "lawngtlai"
+            }
+        ]
+    ],
+    "LUNGLEI_MZ": [
+        [
+            {
+                "LOWER": "lunglei"
+            }
+        ]
+    ],
+    "MAMIT_MZ": [
+        [
+            {
+                "LOWER": "mamit"
+            }
+        ]
+    ],
+    "SAIHA_MZ": [
+        [
+            {
+                "LOWER": "saiha"
+            }
+        ]
+    ],
+    "SERCHHIP_MZ": [
+        [
+            {
+                "LOWER": "serchhip"
+            }
+        ]
+    ],
+    "DIMAPUR_NL": [
+        [
+            {
+                "LOWER": "dimapur"
+            }
+        ]
+    ],
+    "KIPHIRE_NL": [
+        [
+            {
+                "LOWER": "kiphire"
+            }
+        ]
+    ],
+    "KOHIMA_NL": [
+        [
+            {
+                "LOWER": "kohima"
+            }
+        ]
+    ],
+    "LONGLENG_NL": [
+        [
+            {
+                "LOWER": "longleng"
+            }
+        ]
+    ],
+    "MOKOKCHUNG_NL": [
+        [
+            {
+                "LOWER": "mokokchung"
+            }
+        ]
+    ],
+    "MON_NL": [
+        [
+            {
+                "LOWER": "mon"
+            }
+        ]
+    ],
+    "PEREN_NL": [
+        [
+            {
+                "LOWER": "peren"
+            }
+        ]
+    ],
+    "PHEK_NL": [
+        [
+            {
+                "LOWER": "phek"
+            }
+        ]
+    ],
+    "TUENSANG_NL": [
+        [
+            {
+                "LOWER": "tuensang"
+            }
+        ]
+    ],
+    "WOKHA_NL": [
+        [
+            {
+                "LOWER": "wokha"
+            }
+        ]
+    ],
+    "ZUNHEBOTO_NL": [
+        [
+            {
+                "LOWER": "zunheboto"
+            }
+        ]
+    ],
+    "ANUGUL_OR": [
+        [
+            {
+                "LOWER": "anugul"
+            }
+        ]
+    ],
+    "BALANGIR_OR": [
+        [
+            {
+                "LOWER": "balangir"
+            }
+        ]
+    ],
+    "BALESHWAR_OR": [
+        [
+            {
+                "LOWER": "baleshwar"
+            }
+        ]
+    ],
+    "BARGARH_OR": [
+        [
+            {
+                "LOWER": "bargarh"
+            }
+        ]
+    ],
+    "BAUDH_OR": [
+        [
+            {
+                "LOWER": "baudh"
+            }
+        ]
+    ],
+    "BHADRAK_OR": [
+        [
+            {
+                "LOWER": "bhadrak"
+            }
+        ]
+    ],
+    "CUTTACK_OR": [
+        [
+            {
+                "LOWER": "cuttack"
+            }
+        ]
+    ],
+    "DEBAGARH_OR": [
+        [
+            {
+                "LOWER": "debagarh"
+            }
+        ]
+    ],
+    "DHENKANAL_OR": [
+        [
+            {
+                "LOWER": "dhenkanal"
+            }
+        ]
+    ],
+    "GAJAPATI_OR": [
+        [
+            {
+                "LOWER": "gajapati"
+            }
+        ]
+    ],
+    "GANJAM_OR": [
+        [
+            {
+                "LOWER": "ganjam"
+            }
+        ]
+    ],
+    "JAGATSINGHAPUR_OR": [
+        [
+            {
+                "LOWER": "jagatsinghapur"
+            }
+        ]
+    ],
+    "JAJAPUR_OR": [
+        [
+            {
+                "LOWER": "jajapur"
+            }
+        ]
+    ],
+    "JHARSUGUDA_OR": [
+        [
+            {
+                "LOWER": "jharsuguda"
+            }
+        ]
+    ],
+    "KALAHANDI_OR": [
+        [
+            {
+                "LOWER": "kalahandi"
+            }
+        ]
+    ],
+    "KANDHAMAL_OR": [
+        [
+            {
+                "LOWER": "kandhamal"
+            }
+        ]
+    ],
+    "KENDRAPARA_OR": [
+        [
+            {
+                "LOWER": "kendrapara"
+            }
+        ]
+    ],
+    "KENDUJHAR_OR": [
+        [
+            {
+                "LOWER": "kendujhar"
+            }
+        ]
+    ],
+    "KHORDHA_OR": [
+        [
+            {
+                "LOWER": "khordha"
+            }
+        ]
+    ],
+    "KORAPUT_OR": [
+        [
+            {
+                "LOWER": "koraput"
+            }
+        ]
+    ],
+    "MALKANGIRI_OR": [
+        [
+            {
+                "LOWER": "malkangiri"
+            }
+        ]
+    ],
+    "MAYURBHANJ_OR": [
+        [
+            {
+                "LOWER": "mayurbhanj"
+            }
+        ]
+    ],
+    "NABARANGAPUR_OR": [
+        [
+            {
+                "LOWER": "nabarangapur"
+            }
+        ]
+    ],
+    "NAYAGARH_OR": [
+        [
+            {
+                "LOWER": "nayagarh"
+            }
+        ]
+    ],
+    "NUAPADA_OR": [
+        [
+            {
+                "LOWER": "nuapada"
+            }
+        ]
+    ],
+    "PURI_OR": [
+        [
+            {
+                "LOWER": "puri"
+            }
+        ]
+    ],
+    "RAYAGADA_OR": [
+        [
+            {
+                "LOWER": "rayagada"
+            }
+        ]
+    ],
+    "SAMBALPUR_OR": [
+        [
+            {
+                "LOWER": "sambalpur"
+            }
+        ]
+    ],
+    "SONAPUR_OR": [
+        [
+            {
+                "LOWER": "sonapur"
+            }
+        ]
+    ],
+    "SUNDARGARH_OR": [
+        [
+            {
+                "LOWER": "sundargarh"
+            }
+        ]
+    ],
+    "KARAIKAL_PY": [
+        [
+            {
+                "LOWER": "karaikal"
+            }
+        ]
+    ],
+    "MAHE_PY": [
+        [
+            {
+                "LOWER": "mahe"
+            }
+        ]
+    ],
+    "PUDUCHERRY_PY": [
+        [
+            {
+                "LOWER": "puducherry"
+            }
+        ]
+    ],
+    "YANAM_PY": [
+        [
+            {
+                "LOWER": "yanam"
+            }
+        ]
+    ],
+    "AMRITSAR_PB": [
+        [
+            {
+                "LOWER": "amritsar"
+            }
+        ]
+    ],
+    "BARNALA_PB": [
+        [
+            {
+                "LOWER": "barnala"
+            }
+        ]
+    ],
+    "BATHINDA_PB": [
+        [
+            {
+                "LOWER": "bathinda"
+            }
+        ]
+    ],
+    "FARIDKOT_PB": [
+        [
+            {
+                "LOWER": "faridkot"
+            }
+        ]
+    ],
+    "FATEHGARH_PB": [
+        [
+            {
+                "LOWER": "fatehgarh"
+            }
+        ]
+    ],
+    "FAZILKA_PB": [
+        [
+            {
+                "LOWER": "fazilka"
+            }
+        ]
+    ],
+    "FIROZPUR_PB": [
+        [
+            {
+                "LOWER": "firozpur"
+            }
+        ]
+    ],
+    "GURDASPUR_PB": [
+        [
+            {
+                "LOWER": "gurdaspur"
+            }
+        ]
+    ],
+    "HOSHIARPUR_PB": [
+        [
+            {
+                "LOWER": "hoshiarpur"
+            }
+        ]
+    ],
+    "JALANDHAR_PB": [
+        [
+            {
+                "LOWER": "jalandhar"
+            }
+        ]
+    ],
+    "KAPURTHALA_PB": [
+        [
+            {
+                "LOWER": "kapurthala"
+            }
+        ]
+    ],
+    "LUDHIANA_PB": [
+        [
+            {
+                "LOWER": "ludhiana"
+            }
+        ]
+    ],
+    "MANSA_PB": [
+        [
+            {
+                "LOWER": "mansa"
+            }
+        ]
+    ],
+    "MOGA_PB": [
+        [
+            {
+                "LOWER": "moga"
+            }
+        ]
+    ],
+    "MUKTSAR_PB": [
+        [
+            {
+                "LOWER": "muktsar"
+            }
+        ]
+    ],
+    "PATHANKOT_PB": [
+        [
+            {
+                "LOWER": "pathankot"
+            }
+        ]
+    ],
+    "PATIALA_PB": [
+        [
+            {
+                "LOWER": "patiala"
+            }
+        ]
+    ],
+    "RUPNAGAR_PB": [
+        [
+            {
+                "LOWER": "rupnagar"
+            }
+        ]
+    ],
+    "SAHIBZADA AJIT SINGH NAGAR_PB": [
+        [
+            {
+                "LOWER": "sahibzada"
+            },
+            {
+                "LOWER": "ajit"
+            },
+            {
+                "LOWER": "singh"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "SANGRUR_PB": [
+        [
+            {
+                "LOWER": "sangrur"
+            }
+        ]
+    ],
+    "SHAHEED BHAGAT SINGH NAGAR_PB": [
+        [
+            {
+                "LOWER": "shaheed"
+            },
+            {
+                "LOWER": "bhagat"
+            },
+            {
+                "LOWER": "singh"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "TARN TARAN_PB": [
+        [
+            {
+                "LOWER": "tarn"
+            },
+            {
+                "LOWER": "taran"
+            }
+        ]
+    ],
+    "AJMER_RJ": [
+        [
+            {
+                "LOWER": "ajmer"
+            }
+        ]
+    ],
+    "ALWAR_RJ": [
+        [
+            {
+                "LOWER": "alwar"
+            }
+        ]
+    ],
+    "BANSWARA_RJ": [
+        [
+            {
+                "LOWER": "banswara"
+            }
+        ]
+    ],
+    "BARAN_RJ": [
+        [
+            {
+                "LOWER": "baran"
+            }
+        ]
+    ],
+    "BARMER_RJ": [
+        [
+            {
+                "LOWER": "barmer"
+            }
+        ]
+    ],
+    "BHARATPUR_RJ": [
+        [
+            {
+                "LOWER": "bharatpur"
+            }
+        ]
+    ],
+    "BHILWARA_RJ": [
+        [
+            {
+                "LOWER": "bhilwara"
+            }
+        ]
+    ],
+    "BIKANER_RJ": [
+        [
+            {
+                "LOWER": "bikaner"
+            }
+        ]
+    ],
+    "BUNDI_RJ": [
+        [
+            {
+                "LOWER": "bundi"
+            }
+        ]
+    ],
+    "CHITTAURGARH_RJ": [
+        [
+            {
+                "LOWER": "chittaurgarh"
+            }
+        ]
+    ],
+    "CHURU_RJ": [
+        [
+            {
+                "LOWER": "churu"
+            }
+        ]
+    ],
+    "DAUSA_RJ": [
+        [
+            {
+                "LOWER": "dausa"
+            }
+        ]
+    ],
+    "DHAULPUR_RJ": [
+        [
+            {
+                "LOWER": "dhaulpur"
+            }
+        ]
+    ],
+    "DUNGARPUR_RJ": [
+        [
+            {
+                "LOWER": "dungarpur"
+            }
+        ]
+    ],
+    "GANGANAGAR_RJ": [
+        [
+            {
+                "LOWER": "ganganagar"
+            }
+        ]
+    ],
+    "HANUMANGARH_RJ": [
+        [
+            {
+                "LOWER": "hanumangarh"
+            }
+        ]
+    ],
+    "JAIPUR_RJ": [
+        [
+            {
+                "LOWER": "jaipur"
+            }
+        ]
+    ],
+    "JAISALMER_RJ": [
+        [
+            {
+                "LOWER": "jaisalmer"
+            }
+        ]
+    ],
+    "JALOR_RJ": [
+        [
+            {
+                "LOWER": "jalor"
+            }
+        ]
+    ],
+    "JHALAWAR_RJ": [
+        [
+            {
+                "LOWER": "jhalawar"
+            }
+        ]
+    ],
+    "JHUNJHUNUN_RJ": [
+        [
+            {
+                "LOWER": "jhunjhunun"
+            }
+        ]
+    ],
+    "JODHPUR_RJ": [
+        [
+            {
+                "LOWER": "jodhpur"
+            }
+        ]
+    ],
+    "KARAULI_RJ": [
+        [
+            {
+                "LOWER": "karauli"
+            }
+        ]
+    ],
+    "KOTA_RJ": [
+        [
+            {
+                "LOWER": "kota"
+            }
+        ]
+    ],
+    "NAGAUR_RJ": [
+        [
+            {
+                "LOWER": "nagaur"
+            }
+        ]
+    ],
+    "PALI_RJ": [
+        [
+            {
+                "LOWER": "pali"
+            }
+        ]
+    ],
+    "PRATAPGARH_RJ": [
+        [
+            {
+                "LOWER": "pratapgarh"
+            }
+        ]
+    ],
+    "RAJSAMAND_RJ": [
+        [
+            {
+                "LOWER": "rajsamand"
+            }
+        ]
+    ],
+    "SAWAI MADHOPUR_RJ": [
+        [
+            {
+                "LOWER": "sawai"
+            },
+            {
+                "LOWER": "madhopur"
+            }
+        ]
+    ],
+    "SIKAR_RJ": [
+        [
+            {
+                "LOWER": "sikar"
+            }
+        ]
+    ],
+    "SIROHI_RJ": [
+        [
+            {
+                "LOWER": "sirohi"
+            }
+        ]
+    ],
+    "TONK_RJ": [
+        [
+            {
+                "LOWER": "tonk"
+            }
+        ]
+    ],
+    "UDAIPUR_RJ": [
+        [
+            {
+                "LOWER": "udaipur"
+            }
+        ]
+    ],
+    "EAST_SK": [
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "sikkim"
+            }
+        ]
+    ],
+    "NORTH_SK": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "sikkim"
+            }
+        ]
+    ],
+    "SOUTH_SK": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "sikkim"
+            }
+        ]
+    ],
+    "WEST_SK": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "sikkim"
+            }
+        ]
+    ],
+    "ARIYALUR_TN": [
+        [
+            {
+                "LOWER": "ariyalur"
+            }
+        ]
+    ],
+    "CHENNAI_TN": [
+        [
+            {
+                "LOWER": "chennai"
+            }
+        ]
+    ],
+    "COIMBATORE_TN": [
+        [
+            {
+                "LOWER": "coimbatore"
+            }
+        ]
+    ],
+    "CUDDALORE_TN": [
+        [
+            {
+                "LOWER": "cuddalore"
+            }
+        ]
+    ],
+    "DHARMAPURI_TN": [
+        [
+            {
+                "LOWER": "dharmapuri"
+            }
+        ]
+    ],
+    "DINDIGUL_TN": [
+        [
+            {
+                "LOWER": "dindigul"
+            }
+        ]
+    ],
+    "ERODE_TN": [
+        [
+            {
+                "LOWER": "erode"
+            }
+        ]
+    ],
+    "KANCHEEPURAM_TN": [
+        [
+            {
+                "LOWER": "kancheepuram"
+            }
+        ]
+    ],
+    "KANNIYAKUMARI_TN": [
+        [
+            {
+                "LOWER": "kanniyakumari"
+            }
+        ]
+    ],
+    "KARUR_TN": [
+        [
+            {
+                "LOWER": "karur"
+            }
+        ]
+    ],
+    "KRISHNAGIRI_TN": [
+        [
+            {
+                "LOWER": "krishnagiri"
+            }
+        ]
+    ],
+    "MADURAI_TN": [
+        [
+            {
+                "LOWER": "madurai"
+            }
+        ]
+    ],
+    "NAGAPATTINAM_TN": [
+        [
+            {
+                "LOWER": "nagapattinam"
+            }
+        ]
+    ],
+    "NAMAKKAL_TN": [
+        [
+            {
+                "LOWER": "namakkal"
+            }
+        ]
+    ],
+    "PERAMBALUR_TN": [
+        [
+            {
+                "LOWER": "perambalur"
+            }
+        ]
+    ],
+    "PUDUKKOTTAI_TN": [
+        [
+            {
+                "LOWER": "pudukkottai"
+            }
+        ]
+    ],
+    "RAMANATHAPURAM_TN": [
+        [
+            {
+                "LOWER": "ramanathapuram"
+            }
+        ]
+    ],
+    "SALEM_TN": [
+        [
+            {
+                "LOWER": "salem"
+            }
+        ]
+    ],
+    "SIVAGANGA_TN": [
+        [
+            {
+                "LOWER": "sivaganga"
+            }
+        ]
+    ],
+    "THANJAVUR_TN": [
+        [
+            {
+                "LOWER": "thanjavur"
+            }
+        ]
+    ],
+    "THE NILGIRIS_TN": [
+        [
+            {
+                "LOWER": "the"
+            },
+            {
+                "LOWER": "nilgiris"
+            }
+        ]
+    ],
+    "THENI_TN": [
+        [
+            {
+                "LOWER": "theni"
+            }
+        ]
+    ],
+    "THIRUVALLUR_TN": [
+        [
+            {
+                "LOWER": "thiruvallur"
+            }
+        ]
+    ],
+    "THIRUVARUR_TN": [
+        [
+            {
+                "LOWER": "thiruvarur"
+            }
+        ]
+    ],
+    "THOOTHUKKUDI_TN": [
+        [
+            {
+                "LOWER": "thoothukkudi"
+            }
+        ]
+    ],
+    "TIRUCHIRAPPALLI_TN": [
+        [
+            {
+                "LOWER": "tiruchirappalli"
+            }
+        ]
+    ],
+    "TIRUNELVELI_TN": [
+        [
+            {
+                "LOWER": "tirunelveli"
+            }
+        ]
+    ],
+    "TIRUPPUR_TN": [
+        [
+            {
+                "LOWER": "tiruppur"
+            }
+        ]
+    ],
+    "TIRUVANNAMALAI_TN": [
+        [
+            {
+                "LOWER": "tiruvannamalai"
+            }
+        ]
+    ],
+    "VELLORE_TN": [
+        [
+            {
+                "LOWER": "vellore"
+            }
+        ]
+    ],
+    "VILUPPURAM_TN": [
+        [
+            {
+                "LOWER": "viluppuram"
+            }
+        ]
+    ],
+    "VIRUDHUNAGAR_TN": [
+        [
+            {
+                "LOWER": "virudhunagar"
+            }
+        ]
+    ],
+    "ADILABAD_TG": [
+        [
+            {
+                "LOWER": "adilabad"
+            }
+        ]
+    ],
+    "HYDERABAD_TG": [
+        [
+            {
+                "LOWER": "hyderabad"
+            }
+        ]
+    ],
+    "KARIMNAGAR_TG": [
+        [
+            {
+                "LOWER": "karimnagar"
+            }
+        ]
+    ],
+    "KHAMMAM_TG": [
+        [
+            {
+                "LOWER": "khammam"
+            }
+        ]
+    ],
+    "MAHBUBNAGAR_TG": [
+        [
+            {
+                "LOWER": "mahbubnagar"
+            }
+        ]
+    ],
+    "MEDAK_TG": [
+        [
+            {
+                "LOWER": "medak"
+            }
+        ]
+    ],
+    "NALGONDA_TG": [
+        [
+            {
+                "LOWER": "nalgonda"
+            }
+        ]
+    ],
+    "NIZAMABAD_TG": [
+        [
+            {
+                "LOWER": "nizamabad"
+            }
+        ]
+    ],
+    "RANGAREDDY_TG": [
+        [
+            {
+                "LOWER": "rangareddy"
+            }
+        ]
+    ],
+    "WARANGAL (RURAL)_TG": [
+        [
+            {
+                "LOWER": "warangal"
+            }
+        ]
+    ],
+    "DHALAI_TR": [
+        [
+            {
+                "LOWER": "dhalai"
+            }
+        ]
+    ],
+    "GOMATI_TR": [
+        [
+            {
+                "LOWER": "gomati"
+            }
+        ]
+    ],
+    "KHOWAI_TR": [
+        [
+            {
+                "LOWER": "khowai"
+            }
+        ]
+    ],
+    "NORTH TRIPURA_TR": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "tripura"
+            }
+        ]
+    ],
+    "SEPAHIJALA_TR": [
+        [
+            {
+                "LOWER": "sepahijala"
+            }
+        ]
+    ],
+    "SOUTH TRIPURA_TR": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "tripura"
+            }
+        ]
+    ],
+    "UNAKOTI_TR": [
+        [
+            {
+                "LOWER": "unakoti"
+            }
+        ]
+    ],
+    "WEST TRIPURA_TR": [
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "tripura"
+            }
+        ]
+    ],
+    "AGRA_UP": [
+        [
+            {
+                "LOWER": "agra"
+            }
+        ]
+    ],
+    "ALIGARH_UP": [
+        [
+            {
+                "LOWER": "aligarh"
+            }
+        ]
+    ],
+    "ALLAHABAD_UP": [
+        [
+            {
+                "LOWER": "allahabad"
+            }
+        ]
+    ],
+    "AMBEDKAR NAGAR_UP": [
+        [
+            {
+                "LOWER": "ambedkar"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "AMETHI_UP": [
+        [
+            {
+                "LOWER": "amethi"
+            }
+        ]
+    ],
+    "AURAIYA_UP": [
+        [
+            {
+                "LOWER": "auraiya"
+            }
+        ]
+    ],
+    "AZAMGARH_UP": [
+        [
+            {
+                "LOWER": "azamgarh"
+            }
+        ]
+    ],
+    "BAGHPAT_UP": [
+        [
+            {
+                "LOWER": "baghpat"
+            }
+        ]
+    ],
+    "BAHRAICH_UP": [
+        [
+            {
+                "LOWER": "bahraich"
+            }
+        ]
+    ],
+    "BALLIA_UP": [
+        [
+            {
+                "LOWER": "ballia"
+            }
+        ]
+    ],
+    "BALRAMPUR_UP": [
+        [
+            {
+                "LOWER": "balrampur"
+            }
+        ]
+    ],
+    "BANDA_UP": [
+        [
+            {
+                "LOWER": "banda"
+            }
+        ]
+    ],
+    "BARABANKI_UP": [
+        [
+            {
+                "LOWER": "barabanki"
+            }
+        ]
+    ],
+    "BAREILLY_UP": [
+        [
+            {
+                "LOWER": "bareilly"
+            }
+        ]
+    ],
+    "BASTI_UP": [
+        [
+            {
+                "LOWER": "basti"
+            }
+        ]
+    ],
+    "BIJNOR_UP": [
+        [
+            {
+                "LOWER": "bijnor"
+            }
+        ]
+    ],
+    "BUDAUN_UP": [
+        [
+            {
+                "LOWER": "budaun"
+            }
+        ]
+    ],
+    "BULANDSHAHAR_UP": [
+        [
+            {
+                "LOWER": "bulandshahar"
+            }
+        ]
+    ],
+    "CHANDAULI_UP": [
+        [
+            {
+                "LOWER": "chandauli"
+            }
+        ]
+    ],
+    "CHITRAKOOT_UP": [
+        [
+            {
+                "LOWER": "chitrakoot"
+            }
+        ]
+    ],
+    "DEORIA_UP": [
+        [
+            {
+                "LOWER": "deoria"
+            }
+        ]
+    ],
+    "ETAH_UP": [
+        [
+            {
+                "LOWER": "etah"
+            }
+        ]
+    ],
+    "ETAWAH_UP": [
+        [
+            {
+                "LOWER": "etawah"
+            }
+        ]
+    ],
+    "FAIZABAD_UP": [
+        [
+            {
+                "LOWER": "faizabad"
+            }
+        ]
+    ],
+    "FARRUKHABAD_UP": [
+        [
+            {
+                "LOWER": "farrukhabad"
+            }
+        ]
+    ],
+    "FATEHPUR_UP": [
+        [
+            {
+                "LOWER": "fatehpur"
+            }
+        ]
+    ],
+    "FIROZABAD_UP": [
+        [
+            {
+                "LOWER": "firozabad"
+            }
+        ]
+    ],
+    "GAUTAM BUDDHA NAGAR_UP": [
+        [
+            {
+                "LOWER": "gautam"
+            },
+            {
+                "LOWER": "buddha"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "GHAZIABAD_UP": [
+        [
+            {
+                "LOWER": "ghaziabad"
+            }
+        ]
+    ],
+    "GHAZIPUR_UP": [
+        [
+            {
+                "LOWER": "ghazipur"
+            }
+        ]
+    ],
+    "GONDA_UP": [
+        [
+            {
+                "LOWER": "gonda"
+            }
+        ]
+    ],
+    "GORAKHPUR_UP": [
+        [
+            {
+                "LOWER": "gorakhpur"
+            }
+        ]
+    ],
+    "HAMIRPUR_UP": [
+        [
+            {
+                "LOWER": "hamirpur"
+            }
+        ]
+    ],
+    "HAPUR (PANCHSHEEL NAGAR)_UP": [
+        [
+            {
+                "LOWER": "hapur"
+            }
+        ]
+    ],
+    "HARDOI_UP": [
+        [
+            {
+                "LOWER": "hardoi"
+            }
+        ]
+    ],
+    "HATHRAS_UP": [
+        [
+            {
+                "LOWER": "hathras"
+            }
+        ]
+    ],
+    "JALAUN_UP": [
+        [
+            {
+                "LOWER": "jalaun"
+            }
+        ]
+    ],
+    "JAUNPUR_UP": [
+        [
+            {
+                "LOWER": "jaunpur"
+            }
+        ]
+    ],
+    "JHANSI_UP": [
+        [
+            {
+                "LOWER": "jhansi"
+            }
+        ]
+    ],
+    "JYOTIBA PHULE NAGAR_UP": [
+        [
+            {
+                "LOWER": "jyotiba"
+            },
+            {
+                "LOWER": "phule"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "KANNAUJ_UP": [
+        [
+            {
+                "LOWER": "kannauj"
+            }
+        ]
+    ],
+    "KANPUR DEHAT_UP": [
+        [
+            {
+                "LOWER": "kanpur"
+            },
+            {
+                "LOWER": "dehat"
+            }
+        ]
+    ],
+    "KANPUR NAGAR_UP": [
+        [
+            {
+                "LOWER": "kanpur"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "KANSHIRAM_UP": [
+        [
+            {
+                "LOWER": "kanshiram"
+            }
+        ]
+    ],
+    "KAUSHAMBI_UP": [
+        [
+            {
+                "LOWER": "kaushambi"
+            }
+        ]
+    ],
+    "KHERI_UP": [
+        [
+            {
+                "LOWER": "kheri"
+            }
+        ]
+    ],
+    "KUSHINAGAR_UP": [
+        [
+            {
+                "LOWER": "kushinagar"
+            }
+        ]
+    ],
+    "LALITPUR_UP": [
+        [
+            {
+                "LOWER": "lalitpur"
+            }
+        ]
+    ],
+    "LUCKNOW_UP": [
+        [
+            {
+                "LOWER": "lucknow"
+            }
+        ]
+    ],
+    "MAHOBA_UP": [
+        [
+            {
+                "LOWER": "mahoba"
+            }
+        ]
+    ],
+    "MAHRAJGANJ_UP": [
+        [
+            {
+                "LOWER": "mahrajganj"
+            }
+        ]
+    ],
+    "MAINPURI_UP": [
+        [
+            {
+                "LOWER": "mainpuri"
+            }
+        ]
+    ],
+    "MATHURA_UP": [
+        [
+            {
+                "LOWER": "mathura"
+            }
+        ]
+    ],
+    "MAU_UP": [
+        [
+            {
+                "LOWER": "mau"
+            }
+        ]
+    ],
+    "MEERUT_UP": [
+        [
+            {
+                "LOWER": "meerut"
+            }
+        ]
+    ],
+    "MIRZAPUR_UP": [
+        [
+            {
+                "LOWER": "mirzapur"
+            }
+        ]
+    ],
+    "MORADABAD_UP": [
+        [
+            {
+                "LOWER": "moradabad"
+            }
+        ]
+    ],
+    "MUZAFFARNAGAR_UP": [
+        [
+            {
+                "LOWER": "muzaffarnagar"
+            }
+        ]
+    ],
+    "PILIBHIT_UP": [
+        [
+            {
+                "LOWER": "pilibhit"
+            }
+        ]
+    ],
+    "PRATAPGARH_UP": [
+        [
+            {
+                "LOWER": "pratapgarh"
+            }
+        ]
+    ],
+    "RAE BARELI_UP": [
+        [
+            {
+                "LOWER": "rae"
+            },
+            {
+                "LOWER": "bareli"
+            }
+        ]
+    ],
+    "RAMPUR_UP": [
+        [
+            {
+                "LOWER": "rampur"
+            }
+        ]
+    ],
+    "SAHARANPUR_UP": [
+        [
+            {
+                "LOWER": "saharanpur"
+            }
+        ]
+    ],
+    "SAMBHAL (BHIM NAGAR)_UP": [
+        [
+            {
+                "LOWER": "sambhal"
+            }
+        ],
+        [
+            {
+                "LOWER": "bhim"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ],
+        [
+            {
+                "LOWER": "bhimnagar"
+            }
+        ]
+    ],
+    "SANT KABIR NAGAR_UP": [
+        [
+            {
+                "LOWER": "sant",
+                "OP": "?"
+            },
+            {
+                "LOWER": "kabir"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "SANT RAVIDAS NAGAR BHADOHI_UP": [
+        [
+            {
+                "LOWER": "sant",
+                "OP": "?"
+            },
+            {
+                "LOWER": "ravidas",
+                "OP": "?"
+            },
+            {
+                "LOWER": "nagar",
+                "OP": "?"
+            },
+            {
+                "LOWER": "bhadohi"
+            }
+        ]
+    ],
+    "SHAHJAHANPUR_UP": [
+        [
+            {
+                "LOWER": "shahjahanpur"
+            }
+        ]
+    ],
+    "SHAMALI (PRABUDDH NAGAR)_UP": [
+        [
+            {
+                "LOWER": "shamali"
+            }
+        ]
+    ],
+    "SHRAWASTI_UP": [
+        [
+            {
+                "LOWER": "shrawasti"
+            }
+        ]
+    ],
+    "SIDDHARTHNAGAR_UP": [
+        [
+            {
+                "LOWER": "siddharthnagar"
+            }
+        ]
+    ],
+    "SITAPUR_UP": [
+        [
+            {
+                "LOWER": "sitapur"
+            }
+        ]
+    ],
+    "SONBHADRA_UP": [
+        [
+            {
+                "LOWER": "sonbhadra"
+            }
+        ]
+    ],
+    "SULTANPUR_UP": [
+        [
+            {
+                "LOWER": "sultanpur"
+            }
+        ]
+    ],
+    "UNNAO_UP": [
+        [
+            {
+                "LOWER": "unnao"
+            }
+        ]
+    ],
+    "VARANASI_UP": [
+        [
+            {
+                "LOWER": "varanasi"
+            }
+        ]
+    ],
+    "ALMORA_UT": [
+        [
+            {
+                "LOWER": "almora"
+            }
+        ]
+    ],
+    "BAGESHWAR_UT": [
+        [
+            {
+                "LOWER": "bageshwar"
+            }
+        ]
+    ],
+    "CHAMOLI_UT": [
+        [
+            {
+                "LOWER": "chamoli"
+            }
+        ]
+    ],
+    "CHAMPAWAT_UT": [
+        [
+            {
+                "LOWER": "champawat"
+            }
+        ]
+    ],
+    "DEHRADUN_UT": [
+        [
+            {
+                "LOWER": "dehradun"
+            }
+        ]
+    ],
+    "GARHWAL_UT": [
+        [
+            {
+                "LOWER": "garhwal"
+            }
+        ]
+    ],
+    "HARDWAR_UT": [
+        [
+            {
+                "LOWER": "hardwar"
+            }
+        ]
+    ],
+    "NAINITAL_UT": [
+        [
+            {
+                "LOWER": "nainital"
+            }
+        ]
+    ],
+    "PITHORAGARH_UT": [
+        [
+            {
+                "LOWER": "pithoragarh"
+            }
+        ]
+    ],
+    "RUDRAPRAYAG_UT": [
+        [
+            {
+                "LOWER": "rudraprayag"
+            }
+        ]
+    ],
+    "TEHRI GARHWAL_UT": [
+        [
+            {
+                "LOWER": "tehri"
+            },
+            {
+                "LOWER": "garhwal"
+            }
+        ]
+    ],
+    "UDHAM SINGH NAGAR_UT": [
+        [
+            {
+                "LOWER": "udham"
+            },
+            {
+                "LOWER": "singh"
+            },
+            {
+                "LOWER": "nagar"
+            }
+        ]
+    ],
+    "UTTARKASHI_UT": [
+        [
+            {
+                "LOWER": "uttarkashi"
+            }
+        ]
+    ],
+    "ALIPURDUAR_WB": [
+        [
+            {
+                "LOWER": "alipurduar"
+            }
+        ]
+    ],
+    "BANKURA_WB": [
+        [
+            {
+                "LOWER": "bankura"
+            }
+        ]
+    ],
+    "BARDDHAMAN_WB": [
+        [
+            {
+                "LOWER": "barddhaman"
+            }
+        ]
+    ],
+    "BIRBHUM_WB": [
+        [
+            {
+                "LOWER": "birbhum"
+            }
+        ]
+    ],
+    "DAKSHIN DINAJPUR_WB": [
+        [
+            {
+                "LOWER": "dakshin"
+            },
+            {
+                "LOWER": "dinajpur"
+            }
+        ]
+    ],
+    "DARJILING_WB": [
+        [
+            {
+                "LOWER": "darjiling"
+            }
+        ]
+    ],
+    "HAORA_WB": [
+        [
+            {
+                "LOWER": "haora"
+            }
+        ]
+    ],
+    "HUGLI_WB": [
+        [
+            {
+                "LOWER": "hugli"
+            }
+        ]
+    ],
+    "JALPAIGURI_WB": [
+        [
+            {
+                "LOWER": "jalpaiguri"
+            }
+        ]
+    ],
+    "KOCH BIHAR_WB": [
+        [
+            {
+                "LOWER": "koch"
+            },
+            {
+                "LOWER": "bihar"
+            }
+        ]
+    ],
+    "KOLKATA_WB": [
+        [
+            {
+                "LOWER": "kolkata"
+            }
+        ]
+    ],
+    "MALDAH_WB": [
+        [
+            {
+                "LOWER": "maldah"
+            }
+        ]
+    ],
+    "MURSHIDABAD_WB": [
+        [
+            {
+                "LOWER": "murshidabad"
+            }
+        ]
+    ],
+    "NADIA_WB": [
+        [
+            {
+                "LOWER": "nadia"
+            }
+        ]
+    ],
+    "NORTH TWENTY FOUR PARGANAS_WB": [
+        [
+            {
+                "LOWER": "north"
+            },
+            {
+                "LOWER": "twenty",
+                "OP": "?"
+            },
+            {
+                "LOWER": "four",
+                "OP": "?"
+            },
+            {
+                "LOWER": "parganas"
+            }
+        ]
+    ],
+    "PASCHIM MEDINIPUR_WB": [
+        [
+            {
+                "LOWER": "paschim"
+            },
+            {
+                "LOWER": "medinipur"
+            }
+        ],
+        [
+            {
+                "LOWER": "west"
+            },
+            {
+                "LOWER": "medinipur"
+            }
+        ]
+    ],
+    "PURBA MEDINIPUR_WB": [
+        [
+            {
+                "LOWER": "purba"
+            },
+            {
+                "LOWER": "medinipur"
+            }
+        ],
+        [
+            {
+                "LOWER": "east"
+            },
+            {
+                "LOWER": "medinipur"
+            }
+        ]
+    ],
+    "PURULIYA_WB": [
+        [
+            {
+                "LOWER": "puruliya"
+            }
+        ]
+    ],
+    "SOUTH TWENTY FOUR PARGANAS_WB": [
+        [
+            {
+                "LOWER": "south"
+            },
+            {
+                "LOWER": "twenty",
+                "OP": "?"
+            },
+            {
+                "LOWER": "four",
+                "OP": "?"
+            },
+            {
+                "LOWER": "parganas"
+            }
+        ]
+    ],
+    "UTTAR DINAJPUR_WB": [
+        [
+            {
+                "LOWER": "uttar"
+            },
+            {
+                "LOWER": "dinajpur"
+            }
+        ]
+    ]
+}
